@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!--Title Information--> 
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>NYC Motor Vehicle Crashes - April 2020</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  
+
+
+<!-- D3 CDN -->
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<!--BootStrap-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<link rel="stylesheet" href="style.css">
+  <!--CSS-->
+  <script src="static/css/css.js"></script>
+<!-- AmCharts -->
+  <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+  <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+  <script src="https://www.amcharts.com/lib/3/serial.js"></script>
+  <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+<!--MapBox GL-->
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js"></script>
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css" rel="stylesheet" />
+<!--JQuery-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--Chart JS-->
+  <script src="static/js/bar.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js" integrity="sha512-hZf9Qhp3rlDJBvAKvmiG+goaaKRZA6LKUO35oK6EsM0/kjPK32Yw7URqrq3Q+Nvbbt8Usss+IekL7CRn83dYmw==" crossorigin="anonymous"></script>  <script src="static/js/bar.js"></script>
+<!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js" integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q==" crossorigin=""></script>
+<!--JS-->
+  <script src="static/js/app.js"></script>
+
+</head>
+
+<body>
+<!--JQuery-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!--MapBox GL-->
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css" rel="stylesheet" />
+  <!--D3-->   
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+<!--Chart JS-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js" integrity="sha512-hZf9Qhp3rlDJBvAKvmiG+goaaKRZA6LKUO35oK6EsM0/kjPK32Yw7URqrq3Q+Nvbbt8Usss+IekL7CRn83dYmw==" crossorigin="anonymous"></script>
+<!--AMCharts JS-->
+  <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+<!--Leaflet JS-->
+  <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
+  integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script><!--Web Apps JS-->
+  <script src="static/js/bar.js"></script>
+  <script src="static/js/pie.js"></script>
+  <script src="static/js/map.js"></script> 
+  <script type="text/javascript" src="static/js/config.js"></script>
+
+<!--Body-->
+<!--Navbar-->
+<nav class="navbar navbar-default">
+  <div class="container-fluid navbar-custom">
+
+    <div class="row">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="col-xs-9 phone-nav">
+          <a class="navbar-brand" href="index.html" id="logo">Home</a>
+        </div>
+      </div>
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-right navbar-right-custom">
+          <li><a href="visualizations.html">Visualizations</a></li>
+          <li><a href="ml.html">Predictive Analysis</a></li>
+          <li><a href="AprilTable.html">Data Source</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+
+   <center>  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+        <h1>NYC Motor Vehicle Crashes:</h1>
+        <h2>Visualizations</h2>
+        <p>A collection of motor vehicle crashes that occured during April 2020 in New York City.</p>
+      </div>
+    </div>
+  </div>
+
+  
+ <div class="row">
+      <div class="col-md-12">
+        <div class="well">
+          <h2>Crashes Total & Injury Total by Borough</h2>
+          <h5>The chart below highlights the total value of crashes and injuries as well as the value per 100,000 in each borough. Select the buttons below to filter the data. </h5>
+          <br>
+          <button id="0" type="button" >Raw Data</button>
+          <button id="1" type="button" >Per 100,000</button>
+          <br><br>
+          <!--Chart Section-->
+          <canvas id="forecast" width="300" height="150"></canvas>
+          <br><br><br>
+      </div>
+
+<!--Pie Chart Section-->
+<h2>Breakdown of Injuries</h2>
+<h5>Select a borough below to show a breakdown of the injuries by motorist, pedestrian, and cyclist</h5>
+<div id="chartdiv1" style="width: 800px; height: 600px;"></div>
+
+<!--Map Frame Section-->
+ <h2>Location of Crashes - April 2020</h2>    
+ <h5>Borough Color Represents Desity of Crashes in NYC April 2020</h5> 
+
+<!--MapBox GL-->
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css" rel="stylesheet" />
+
+<!--FRAMED MAP INFORMATION-->
+<script src="static/js/map.js"></script>
+  <div id="map" style="width: 800px; height: 600px;"></div>
+     
+    </div>
+  </div>
+</center>
+</body>
+
+</html>
+

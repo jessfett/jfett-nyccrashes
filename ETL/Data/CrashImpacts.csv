@@ -1,0 +1,6 @@
+Borough,PersonsInjured,PersonsKilled,PedestriansInjured,PedestriansKilled,CyclistInjured,CyclistKilled,MotoristInjured,MotoristKilled
+BRONX,4688,19,896,7,581,4,3211,8
+BROOKLYN,8915,37,1631,15,1456,6,5828,16
+MANHATTAN,3256,18,784,8,886,3,1586,7
+QUEENS,6635,44,1183,19,795,1,4657,24
+STATEN ISLAND,834,8,105,3,44,0,685,5

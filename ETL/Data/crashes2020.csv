@@ -1,0 +1,431 @@
+Borough,Collision ID,Contributing Factor 1,Crash Date,Crash Time,Latitude,Location,Longitude,Number of Cyclists Injured,Number of Cyclists Killed,Number of Motorists Injured,Number of Motorists Killed,Number of Pedestrians Injured,number_of_pedestrians_killed,Number of Persons Killed,Number of Persons Killed,Vehicle 1 Code,Zip Code
+BRONX,4374449,Unspecified,2020-12-07T00:00:00.000,2020-12-14 19:27:00,40.87147,"{'latitude': '40.87147', 'longitude': '-73.83057'}",-73.83057,0,0,0,0,1,0,1,0,Sedan,10475.0
+QUEENS,4374434,Unspecified,2020-12-07T00:00:00.000,2020-12-14 06:00:00,40.755264,"{'latitude': '40.755264', 'longitude': '-73.88817'}",-73.88817,0,0,0,0,0,0,0,0,Taxi,11372.0
+QUEENS,4372634,Unspecified,2020-12-01T00:00:00.000,2020-12-14 15:00:00,40.71949,"{'latitude': '40.71949', 'longitude': '-73.810585'}",-73.810585,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11367.0
+MANHATTAN,4372547,Unspecified,2020-12-01T00:00:00.000,2020-12-14 09:05:00,40.80322,"{'latitude': '40.80322', 'longitude': '-73.95253'}",-73.95253,0,0,1,0,0,0,1,0,Taxi,10026.0
+BROOKLYN,4371227,Unspecified,2020-11-28T00:00:00.000,2020-12-14 07:30:00,40.691048,"{'latitude': '40.691048', 'longitude': '-73.966415'}",-73.966415,0,0,0,0,0,0,0,0,Sedan,11205.0
+BRONX,4371162,Unspecified,2020-11-27T00:00:00.000,2020-12-14 17:35:00,40.859875,"{'latitude': '40.859875', 'longitude': '-73.89323'}",-73.89323,0,0,0,0,3,0,3,0,Sedan,10458.0
+QUEENS,4370434,Unspecified,2020-11-23T00:00:00.000,2020-12-14 12:00:00,40.70455,"{'latitude': '40.70455', 'longitude': '-73.87336'}",-73.87336,0,0,0,0,0,0,0,0,Van,11385.0
+QUEENS,4370794,Unspecified,2020-11-21T00:00:00.000,2020-12-14 19:00:00,40.711784,"{'latitude': '40.711784', 'longitude': '-73.79'}",-73.79,0,0,0,0,1,0,1,0,,11432.0
+BROOKLYN,4368782,Unspecified,2020-11-17T00:00:00.000,2020-12-14 05:35:00,40.647972,"{'latitude': '40.647972', 'longitude': '-74.0181'}",-74.0181,0,0,0,0,0,0,0,0,Sedan,11232.0
+BROOKLYN,4368037,Backing Unsafely,2020-11-15T00:00:00.000,2020-12-14 12:53:00,40.681343,"{'latitude': '40.681343', 'longitude': '-73.91147'}",-73.91147,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11233.0
+STATEN ISLAND,4369228,Unspecified,2020-11-13T00:00:00.000,2020-12-14 09:20:00,40.613075,"{'latitude': '40.613075', 'longitude': '-74.12257'}",-74.12257,0,0,0,0,2,0,2,0,Sedan,10314.0
+BROOKLYN,4369610,Driver Inattention/Distraction,2020-11-11T00:00:00.000,2020-12-14 18:00:00,40.67732,"{'latitude': '40.67732', 'longitude': '-73.91642'}",-73.91642,0,0,0,0,0,0,0,0,Sedan,11233.0
+BROOKLYN,4365205,Unspecified,2020-11-05T00:00:00.000,2020-12-14 21:01:00,40.611786,"{'latitude': '40.611786', 'longitude': '-73.95271'}",-73.95271,0,0,0,0,0,0,0,0,Pick-up Truck,11210.0
+BROOKLYN,4362453,Failure to Yield Right-of-Way,2020-10-29T00:00:00.000,2020-12-14 18:42:00,40.59938,"{'latitude': '40.59938', 'longitude': '-73.95141'}",-73.95141,0,0,0,0,1,0,1,0,Sedan,11229.0
+BRONX,4360833,Backing Unsafely,2020-10-23T00:00:00.000,2020-12-14 08:40:00,40.877594,"{'latitude': '40.877594', 'longitude': '-73.84518'}",-73.84518,0,0,0,0,1,0,1,0,Sedan,10469.0
+BRONX,4359095,Unspecified,2020-10-19T00:00:00.000,2020-12-14 01:24:00,40.812687,"{'latitude': '40.812687', 'longitude': '-73.90223'}",-73.90223,0,0,0,0,0,0,0,0,Sedan,10455.0
+MANHATTAN,4359011,Driver Inexperience,2020-10-18T00:00:00.000,2020-12-14 17:00:00,40.83027,"{'latitude': '40.83027', 'longitude': '-73.94393'}",-73.94393,1,0,0,0,0,0,1,0,E-Bike,10032.0
+QUEENS,4358090,Unspecified,2020-10-15T00:00:00.000,2020-12-14 07:40:00,40.740833,"{'latitude': '40.740833', 'longitude': '-73.72337'}",-73.72337,0,0,0,0,0,0,0,0,Sedan,11426.0
+BROOKLYN,4357739,Unspecified,2020-10-14T00:00:00.000,2020-12-14 14:00:00,40.695385,"{'latitude': '40.695385', 'longitude': '-73.98324'}",-73.98324,0,0,0,0,0,0,0,0,Pick-up Truck,11201.0
+BROOKLYN,4357724,Backing Unsafely,2020-10-13T00:00:00.000,2020-12-14 13:10:00,40.63501,"{'latitude': '40.63501', 'longitude': '-73.96117'}",-73.96117,0,0,0,0,0,0,0,0,Sedan,11230.0
+BRONX,4354762,Unspecified,2020-10-04T00:00:00.000,2020-12-14 20:59:00,40.83567,"{'latitude': '40.83567', 'longitude': '-73.87029'}",-73.87029,0,0,0,0,0,0,0,0,Sedan,10472.0
+QUEENS,4354027,Unspecified,2020-10-03T00:00:00.000,2020-12-14 06:00:00,40.675915,"{'latitude': '40.675915', 'longitude': '-73.75041'}",-73.75041,0,0,0,0,0,0,0,0,Sedan,11413.0
+BRONX,4352266,Backing Unsafely,2020-09-27T00:00:00.000,2020-12-14 14:05:00,40.826042,"{'latitude': '40.826042', 'longitude': '-73.907906'}",-73.907906,0,0,0,0,0,0,0,0,,10456.0
+BROOKLYN,4352540,Unspecified,2020-09-26T00:00:00.000,2020-12-14 11:35:00,40.68239,"{'latitude': '40.68239', 'longitude': '-73.876625'}",-73.876625,0,0,0,0,0,0,0,0,Taxi,11208.0
+MANHATTAN,4355156,Unspecified,2020-09-19T00:00:00.000,2020-12-14 11:10:00,40.725193,"{'latitude': '40.725193', 'longitude': '-73.99478'}",-73.99478,0,0,0,0,0,0,0,0,Sedan,10012.0
+QUEENS,4346212,Unspecified,2020-09-08T00:00:00.000,2020-12-14 11:30:00,40.760674,"{'latitude': '40.760674', 'longitude': '-73.86216'}",-73.86216,0,0,0,0,0,0,0,0,Sedan,11369.0
+BROOKLYN,4345639,Passing Too Closely,2020-09-06T00:00:00.000,2020-12-14 12:00:00,40.622955,"{'latitude': '40.622955', 'longitude': '-73.93723'}",-73.93723,0,0,0,0,0,0,0,0,Sedan,11210.0
+BROOKLYN,4345244,Other Vehicular,2020-09-04T00:00:00.000,2020-12-14 20:30:00,40.6597,"{'latitude': '40.6597', 'longitude': '-73.915985'}",-73.915985,0,0,0,0,0,0,0,0,Sedan,11212.0
+BROOKLYN,4344308,Unspecified,2020-09-02T00:00:00.000,2020-12-14 14:30:00,40.67132,"{'latitude': '40.67132', 'longitude': '-73.87535'}",-73.87535,0,0,0,0,0,0,0,0,Sedan,11208.0
+BROOKLYN,4341742,Unspecified,2020-08-24T00:00:00.000,2020-12-14 15:35:00,40.692654,"{'latitude': '40.692654', 'longitude': '-73.93697'}",-73.93697,0,0,0,0,0,0,0,0,Sedan,11221.0
+QUEENS,4340608,Unspecified,2020-08-22T00:00:00.000,2020-12-14 20:00:00,40.768955,"{'latitude': '40.768955', 'longitude': '-73.82669'}",-73.82669,0,0,0,0,0,0,0,0,Motorscooter,11354.0
+BRONX,4340202,Unspecified,2020-08-20T00:00:00.000,2020-12-14 18:43:00,40.815437,"{'latitude': '40.815437', 'longitude': '-73.924'}",-73.924,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,10451.0
+BROOKLYN,4339853,Oversized Vehicle,2020-08-18T00:00:00.000,2020-12-14 15:05:00,40.682392,"{'latitude': '40.682392', 'longitude': '-73.99589'}",-73.99589,0,0,0,0,0,0,0,0,Sedan,11231.0
+STATEN ISLAND,4339719,Driver Inattention/Distraction,2020-08-18T00:00:00.000,2020-12-14 08:00:00,40.630318,"{'latitude': '40.630318', 'longitude': '-74.08683'}",-74.08683,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10304.0
+BROOKLYN,4338822,Driver Inattention/Distraction,2020-08-15T00:00:00.000,2020-12-14 13:35:00,40.676285,"{'latitude': '40.676285', 'longitude': '-73.97605'}",-73.97605,0,0,0,0,0,0,0,0,Sedan,11217.0
+MANHATTAN,4339122,Unspecified,2020-08-15T00:00:00.000,2020-12-14 01:00:00,40.84932,"{'latitude': '40.84932', 'longitude': '-73.93374'}",-73.93374,0,0,0,0,1,0,1,0,Sedan,10033.0
+BRONX,4337853,Steering Failure,2020-08-13T00:00:00.000,2020-12-14 05:00:00,40.869694,"{'latitude': '40.869694', 'longitude': '-73.86723'}",-73.86723,0,0,0,0,0,0,0,0,Sedan,10467.0
+BRONX,4337579,Unspecified,2020-08-11T00:00:00.000,2020-12-14 11:30:00,40.86471,"{'latitude': '40.86471', 'longitude': '-73.90077'}",-73.90077,0,0,0,0,0,0,0,0,Sedan,10468.0
+QUEENS,4337258,Driver Inattention/Distraction,2020-08-10T00:00:00.000,2020-12-14 13:02:00,40.685085,"{'latitude': '40.685085', 'longitude': '-73.83512'}",-73.83512,0,0,0,0,0,0,0,0,Sedan,11417.0
+MANHATTAN,4337237,Driver Inattention/Distraction,2020-08-10T00:00:00.000,2020-12-14 07:10:00,40.81401,"{'latitude': '40.81401', 'longitude': '-73.94466'}",-73.94466,0,0,0,0,0,0,0,0,Taxi,10030.0
+BRONX,4341528,Unspecified,2020-08-07T00:00:00.000,2020-12-14 20:00:00,40.890316,"{'latitude': '40.890316', 'longitude': '-73.90796'}",-73.90796,0,0,0,0,0,0,0,0,Taxi,10471.0
+BRONX,4336366,Unspecified,2020-08-06T00:00:00.000,2020-12-14 12:00:00,40.84204,"{'latitude': '40.84204', 'longitude': '-73.86753'}",-73.86753,0,0,0,0,0,0,0,0,Sedan,10460.0
+MANHATTAN,4334974,Unspecified,2020-08-04T00:00:00.000,2020-12-14 14:00:00,40.81153,"{'latitude': '40.81153', 'longitude': '-73.94463'}",-73.94463,0,0,0,0,0,0,0,0,Sedan,10027.0
+QUEENS,4338500,Driver Inattention/Distraction,2020-08-04T00:00:00.000,2020-12-14 18:00:00,40.735325,"{'latitude': '40.735325', 'longitude': '-73.90835'}",-73.90835,0,0,0,0,0,0,0,0,Sedan,11377.0
+BRONX,4334114,Unspecified,2020-08-02T00:00:00.000,2020-12-14 15:32:00,40.822533,"{'latitude': '40.822533', 'longitude': '-73.88509'}",-73.88509,0,0,0,0,0,0,0,0,Box Truck,10474.0
+MANHATTAN,4337475,Turning Improperly,2020-07-30T00:00:00.000,2020-12-14 16:53:00,40.805824,"{'latitude': '40.805824', 'longitude': '-73.95436'}",-73.95436,1,0,0,0,0,0,1,0,Sedan,10026.0
+BROOKLYN,4333232,Unspecified,2020-07-29T00:00:00.000,2020-12-14 11:45:00,40.617,"{'latitude': '40.617', 'longitude': '-73.947'}",-73.947,0,0,2,0,0,0,2,0,Sedan,11210.0
+QUEENS,4332379,Unspecified,2020-07-26T00:00:00.000,2020-12-14 04:00:00,40.702538,"{'latitude': '40.702538', 'longitude': '-73.76531'}",-73.76531,0,0,0,0,0,0,0,0,Sedan,11412.0
+BROOKLYN,4332021,Unspecified,2020-07-24T00:00:00.000,2020-12-14 16:50:00,40.641323,"{'latitude': '40.641323', 'longitude': '-73.983'}",-73.983,0,0,0,0,0,0,0,0,Taxi,11218.0
+BROOKLYN,4331859,Unspecified,2020-07-21T00:00:00.000,2020-12-14 11:28:00,40.64036,"{'latitude': '40.64036', 'longitude': '-73.92571'}",-73.92571,0,0,0,0,0,0,0,0,Sedan,11203.0
+BRONX,4325484,Unspecified,2020-07-05T00:00:00.000,2020-12-14 00:15:00,40.87601,"{'latitude': '40.87601', 'longitude': '-73.8796'}",-73.8796,0,0,0,0,0,0,0,0,Sedan,10467.0
+QUEENS,4324341,Driver Inattention/Distraction,2020-06-30T00:00:00.000,2020-12-14 11:15:00,40.72362,"{'latitude': '40.72362', 'longitude': '-73.81127'}",-73.81127,0,0,0,0,0,0,0,0,LIMO,11367.0
+QUEENS,4359989,Unspecified,2020-10-21T00:00:00.000,2020-12-14 18:20:00,40.753006,"{'latitude': '40.753006', 'longitude': '-73.8326'}",-73.8326,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11355.0
+QUEENS,4372092,Driver Inattention/Distraction,2020-11-30T00:00:00.000,2020-12-14 18:10:00,40.755337,"{'latitude': '40.755337', 'longitude': '-73.843254'}",-73.843254,0,0,5,0,0,0,5,0,Station Wagon/Sport Utility Vehicle,11368.0
+BROOKLYN,4359986,Unspecified,2020-10-22T00:00:00.000,2020-12-14 01:50:00,40.642113,"{'latitude': '40.642113', 'longitude': '-73.90307'}",-73.90307,1,0,0,0,0,0,1,0,Sedan,11236.0
+QUEENS,4374379,Driver Inattention/Distraction,2020-12-05T00:00:00.000,2020-12-14 23:30:00,40.709816,"{'latitude': '40.709816', 'longitude': '-73.80108'}",-73.80108,0,0,0,0,0,0,0,0,Pick-up Truck,11432.0
+QUEENS,4363722,Reaction to Uninvolved Vehicle,2020-11-01T00:00:00.000,2020-12-14 01:46:00,40.724308,"{'latitude': '40.724308', 'longitude': '-73.72474'}",-73.72474,0,0,0,0,0,0,0,0,Sedan,11426.0
+BROOKLYN,4358753,Unspecified,2020-10-16T00:00:00.000,2020-12-14 23:25:00,40.67066,"{'latitude': '40.67066', 'longitude': '-73.957985'}",-73.957985,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11238.0
+BROOKLYN,4368978,Driver Inattention/Distraction,2020-11-18T00:00:00.000,2020-12-14 15:39:00,40.654068,"{'latitude': '40.654068', 'longitude': '-73.96177'}",-73.96177,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11226.0
+BRONX,4366969,Driver Inattention/Distraction,2020-11-12T00:00:00.000,2020-12-14 09:30:00,40.81706,"{'latitude': '40.81706', 'longitude': '-73.85072'}",-73.85072,0,0,0,0,0,0,0,0,Sedan,10473.0
+QUEENS,4368712,Unspecified,2020-11-17T00:00:00.000,2020-12-14 15:50:00,40.679688,"{'latitude': '40.679688', 'longitude': '-73.77711'}",-73.77711,0,0,0,0,0,0,0,0,Sedan,11434.0
+MANHATTAN,4359535,Unspecified,2020-10-19T00:00:00.000,2020-12-14 08:30:00,40.83349,"{'latitude': '40.83349', 'longitude': '-73.94158'}",-73.94158,0,0,0,0,0,0,0,0,Taxi,10032.0
+MANHATTAN,4364408,Following Too Closely,2020-11-04T00:00:00.000,2020-12-14 20:45:00,40.76661,"{'latitude': '40.76661', 'longitude': '-73.965'}",-73.965,0,0,0,0,0,0,0,0,Sedan,10065.0
+BROOKLYN,4361758,Unspecified,2020-10-25T00:00:00.000,2020-12-14 13:00:00,40.67923,"{'latitude': '40.67923', 'longitude': '-73.92813'}",-73.92813,1,0,0,0,0,0,1,0,Bike,11233.0
+QUEENS,4372364,Driver Inattention/Distraction,2020-11-30T00:00:00.000,2020-12-14 20:20:00,40.665634,"{'latitude': '40.665634', 'longitude': '-73.758156'}",-73.758156,0,0,0,0,0,0,0,0,Garbage or Refuse,11413.0
+BRONX,4366125,Unspecified,2020-11-09T00:00:00.000,2020-12-14 11:45:00,40.86536,"{'latitude': '40.86536', 'longitude': '-73.87043'}",-73.87043,0,0,0,0,0,0,0,0,Sedan,10467.0
+QUEENS,4361068,Driver Inattention/Distraction,2020-10-23T00:00:00.000,2020-12-14 19:44:00,40.735123,"{'latitude': '40.735123', 'longitude': '-73.87524'}",-73.87524,0,0,0,0,0,0,0,0,Sedan,11373.0
+QUEENS,4371700,Unspecified,2020-11-18T00:00:00.000,2020-12-14 19:00:00,40.757847,"{'latitude': '40.757847', 'longitude': '-73.91661'}",-73.91661,0,0,0,0,0,0,0,0,Sedan,11103.0
+MANHATTAN,4372915,Lost Consciousness,2020-12-03T00:00:00.000,2020-12-14 11:30:00,40.778805,"{'latitude': '40.778805', 'longitude': '-73.947975'}",-73.947975,0,0,2,0,0,0,2,0,Sedan,10128.0
+MANHATTAN,4372812,Reaction to Uninvolved Vehicle,2020-12-02T00:00:00.000,2020-12-14 19:20:00,40.759754,"{'latitude': '40.759754', 'longitude': '-73.99371'}",-73.99371,1,0,0,0,0,0,1,0,E-Scooter,10036.0
+BROOKLYN,4358375,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2020-10-16T00:00:00.000,2020-12-14 16:50:00,40.633724,"{'latitude': '40.633724', 'longitude': '-74.02389'}",-74.02389,1,0,0,0,0,0,1,0,Pick-up Truck,11209.0
+BRONX,4369634,Driver Inattention/Distraction,2020-11-18T00:00:00.000,2020-12-14 05:56:00,40.900204,"{'latitude': '40.900204', 'longitude': '-73.86315'}",-73.86315,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10470.0
+MANHATTAN,4373652,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 15:15:00,40.775,"{'latitude': '40.775', 'longitude': '-73.9631'}",-73.9631,0,0,0,0,0,0,0,0,Sedan,10075.0
+QUEENS,4364884,Driver Inattention/Distraction,2020-11-04T00:00:00.000,2020-12-14 08:00:00,40.766747,"{'latitude': '40.766747', 'longitude': '-73.86924'}",-73.86924,0,0,0,0,0,0,0,0,Sedan,11369.0
+QUEENS,4371076,Unsafe Speed,2020-11-27T00:00:00.000,2020-12-14 13:04:00,40.58797,"{'latitude': '40.58797', 'longitude': '-73.80768'}",-73.80768,0,0,1,0,0,0,1,0,Sedan,11693.0
+QUEENS,4359447,Unspecified,2020-10-19T00:00:00.000,2020-12-14 16:20:00,40.77465,"{'latitude': '40.77465', 'longitude': '-73.922035'}",-73.922035,0,0,0,0,0,0,0,0,Sedan,11102.0
+BROOKLYN,4364230,Failure to Yield Right-of-Way,2020-11-04T00:00:00.000,2020-12-14 09:25:00,40.694794,"{'latitude': '40.694794', 'longitude': '-73.98246'}",-73.98246,0,0,1,0,0,0,1,0,Sedan,11201.0
+BROOKLYN,4361401,Driver Inattention/Distraction,2020-10-25T00:00:00.000,2020-12-14 21:55:00,40.68097,"{'latitude': '40.68097', 'longitude': '-73.8915'}",-73.8915,0,0,0,0,0,0,0,0,Sedan,11207.0
+MANHATTAN,4374445,Unsafe Lane Changing,2020-11-16T00:00:00.000,2020-12-14 07:00:00,40.75619,"{'latitude': '40.75619', 'longitude': '-73.99057'}",-73.99057,0,0,0,0,0,0,0,0,Box Truck,10018.0
+QUEENS,4360845,Passing or Lane Usage Improper,2020-10-24T00:00:00.000,2020-12-14 17:25:00,40.70375,"{'latitude': '40.70375', 'longitude': '-73.79916'}",-73.79916,0,0,0,0,0,0,0,0,Sedan,11432.0
+MANHATTAN,4372559,Unsafe Lane Changing,2020-11-23T00:00:00.000,2020-12-14 12:04:00,40.724693,"{'latitude': '40.724693', 'longitude': '-73.99419'}",-73.99419,0,0,0,0,0,0,0,0,Sedan,10012.0
+BROOKLYN,4363232,Passing or Lane Usage Improper,2020-11-01T00:00:00.000,2020-12-14 08:50:00,40.69362,"{'latitude': '40.69362', 'longitude': '-73.93418'}",-73.93418,0,0,0,0,0,0,0,0,Sedan,11221.0
+BROOKLYN,4370877,Passing Too Closely,2020-11-22T00:00:00.000,2020-12-14 15:15:00,40.684814,"{'latitude': '40.684814', 'longitude': '-73.98353'}",-73.98353,0,0,0,0,0,0,0,0,Sedan,11217.0
+MANHATTAN,4365192,Fell Asleep,2020-11-08T00:00:00.000,2020-12-14 03:55:00,40.807785,"{'latitude': '40.807785', 'longitude': '-73.93495'}",-73.93495,0,0,0,0,0,0,0,0,Sedan,10037.0
+QUEENS,4358708,Failure to Yield Right-of-Way,2020-10-15T00:00:00.000,2020-12-14 16:32:00,40.720154,"{'latitude': '40.720154', 'longitude': '-73.87531'}",-73.87531,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11379.0
+BROOKLYN,4374162,Reaction to Uninvolved Vehicle,2020-11-29T00:00:00.000,2020-12-14 01:00:00,40.654102,"{'latitude': '40.654102', 'longitude': '-73.9258'}",-73.9258,0,0,0,0,0,0,0,0,Sedan,11203.0
+QUEENS,4365064,Unspecified,2020-11-07T00:00:00.000,2020-12-14 06:55:00,40.66504,"{'latitude': '40.66504', 'longitude': '-73.76218'}",-73.76218,0,0,0,0,0,0,0,0,Sedan,11413.0
+BROOKLYN,4363006,Driver Inattention/Distraction,2020-10-18T00:00:00.000,2020-12-14 19:50:00,40.643246,"{'latitude': '40.643246', 'longitude': '-73.94877'}",-73.94877,0,0,0,0,0,0,0,0,Sedan,11226.0
+BROOKLYN,4364530,Following Too Closely,2020-11-05T00:00:00.000,2020-12-14 11:41:00,40.65152,"{'latitude': '40.65152', 'longitude': '-73.909454'}",-73.909454,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11236.0
+QUEENS,4369426,Unspecified,2020-11-21T00:00:00.000,2020-12-14 21:18:00,40.745167,"{'latitude': '40.745167', 'longitude': '-73.82139'}",-73.82139,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11355.0
+STATEN ISLAND,4361120,Unspecified,2020-10-25T00:00:00.000,2020-12-14 01:45:00,40.545124,"{'latitude': '40.545124', 'longitude': '-74.160965'}",-74.160965,0,0,0,0,0,0,0,0,Sedan,10312.0
+MANHATTAN,4369458,Passing or Lane Usage Improper,2020-11-21T00:00:00.000,2020-12-14 15:11:00,40.75686,"{'latitude': '40.75686', 'longitude': '-73.96105'}",-73.96105,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10022.0
+BROOKLYN,4372387,Failure to Yield Right-of-Way,2020-12-01T00:00:00.000,2020-12-14 17:30:00,40.629112,"{'latitude': '40.629112', 'longitude': '-74.027885'}",-74.027885,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11209.0
+BRONX,4362741,Driver Inattention/Distraction,2020-10-30T00:00:00.000,2020-12-14 19:13:00,40.86551,"{'latitude': '40.86551', 'longitude': '-73.85962'}",-73.85962,0,0,1,0,0,0,1,0,Sedan,10469.0
+BRONX,4360809,Passing Too Closely,2020-10-24T00:00:00.000,2020-12-14 19:47:00,40.832214,"{'latitude': '40.832214', 'longitude': '-73.90344'}",-73.90344,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10456.0
+BRONX,4372605,Unsafe Speed,2020-12-02T00:00:00.000,2020-12-14 02:10:00,40.820297,"{'latitude': '40.820297', 'longitude': '-73.90411'}",-73.90411,0,0,7,0,0,0,7,0,Sedan,10456.0
+MANHATTAN,4361242,Passing Too Closely,2020-10-22T00:00:00.000,2020-12-14 09:00:00,40.777542,"{'latitude': '40.777542', 'longitude': '-73.957016'}",-73.957016,0,0,0,0,0,0,0,0,Sedan,10028.0
+BRONX,4374217,Unspecified,2020-11-30T00:00:00.000,2020-12-14 14:50:00,40.814716,"{'latitude': '40.814716', 'longitude': '-73.85656'}",-73.85656,0,0,0,0,0,0,0,0,Sedan,10473.0
+QUEENS,4367370,Other Vehicular,2020-11-13T00:00:00.000,2020-12-14 16:50:00,40.73968,"{'latitude': '40.73968', 'longitude': '-73.716736'}",-73.716736,0,0,0,0,0,0,0,0,Sedan,11426.0
+BRONX,4369681,Unspecified,2020-11-18T00:00:00.000,2020-12-14 21:05:00,40.877052,"{'latitude': '40.877052', 'longitude': '-73.90326'}",-73.90326,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10463.0
+MANHATTAN,4370212,Driver Inattention/Distraction,2020-11-23T00:00:00.000,2020-12-14 15:19:00,40.764286,"{'latitude': '40.764286', 'longitude': '-73.95562'}",-73.95562,0,0,0,0,0,0,0,0,Van,10065.0
+BROOKLYN,4372949,Obstruction/Debris,2020-12-03T00:00:00.000,2020-12-14 17:30:00,40.682407,"{'latitude': '40.682407', 'longitude': '-73.96569'}",-73.96569,0,0,0,0,0,0,0,0,Sedan,11238.0
+MANHATTAN,4360515,Backing Unsafely,2020-10-19T00:00:00.000,2020-12-14 13:00:00,40.812187,"{'latitude': '40.812187', 'longitude': '-73.94995'}",-73.94995,1,0,0,0,0,0,1,0,Bike,10027.0
+BRONX,4363340,Unspecified,2020-11-01T00:00:00.000,2020-12-14 10:38:00,40.83209,"{'latitude': '40.83209', 'longitude': '-73.8898'}",-73.8898,0,0,0,0,0,0,0,0,Sedan,10459.0
+QUEENS,4358460,Unsafe Speed,2020-10-17T00:00:00.000,2020-12-14 09:29:00,40.70476,"{'latitude': '40.70476', 'longitude': '-73.784424'}",-73.784424,0,0,3,0,0,0,3,0,Sedan,11433.0
+BRONX,4367963,Fell Asleep,2020-11-14T00:00:00.000,2020-12-14 00:30:00,40.824104,"{'latitude': '40.824104', 'longitude': '-73.869'}",-73.869,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10473.0
+BROOKLYN,4360479,Alcohol Involvement,2020-10-22T00:00:00.000,2020-12-14 20:16:00,40.65621,"{'latitude': '40.65621', 'longitude': '-73.914665'}",-73.914665,0,0,0,0,0,0,0,0,Sedan,11212.0
+BROOKLYN,4366256,Driver Inattention/Distraction,2020-11-09T00:00:00.000,2020-12-14 17:42:00,40.690765,"{'latitude': '40.690765', 'longitude': '-73.92429'}",-73.92429,0,0,0,0,0,0,0,0,Sedan,11221.0
+QUEENS,4370424,Backing Unsafely,2020-11-23T00:00:00.000,2020-12-14 12:25:00,40.756336,"{'latitude': '40.756336', 'longitude': '-73.87794'}",-73.87794,0,0,0,0,0,0,0,0,Sedan,11372.0
+BRONX,4363597,Driver Inattention/Distraction,2020-11-02T00:00:00.000,2020-12-14 14:55:00,40.876312,"{'latitude': '40.876312', 'longitude': '-73.87965'}",-73.87965,0,0,0,0,0,0,0,0,Sedan,10467.0
+MANHATTAN,4360553,Unspecified,2020-10-23T00:00:00.000,2020-12-14 17:57:00,40.714928,"{'latitude': '40.714928', 'longitude': '-74.00795'}",-74.00795,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10007.0
+BRONX,4358596,Failure to Yield Right-of-Way,2020-10-15T00:00:00.000,2020-12-14 20:23:00,40.859646,"{'latitude': '40.859646', 'longitude': '-73.86176'}",-73.86176,0,0,1,0,0,0,1,0,Taxi,10469.0
+MANHATTAN,4364577,Failure to Yield Right-of-Way,2020-11-05T00:00:00.000,2020-12-14 13:50:00,40.76338,"{'latitude': '40.76338', 'longitude': '-73.97156'}",-73.97156,0,0,1,0,0,0,1,0,Sedan,10022.0
+BRONX,4370991,Unspecified,2020-11-18T00:00:00.000,2020-12-14 09:22:00,40.821167,"{'latitude': '40.821167', 'longitude': '-73.90775'}",-73.90775,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10456.0
+MANHATTAN,4367621,Failure to Yield Right-of-Way,2020-11-13T00:00:00.000,2020-12-14 23:25:00,40.793606,"{'latitude': '40.793606', 'longitude': '-73.94952'}",-73.94952,0,0,0,0,1,0,1,0,Sedan,10029.0
+BROOKLYN,4370052,Driver Inexperience,2020-11-23T00:00:00.000,2020-12-14 08:09:00,40.71786,"{'latitude': '40.71786', 'longitude': '-73.96223'}",-73.96223,0,0,0,0,0,0,0,0,Tractor Truck Gasoline,11249.0
+BROOKLYN,4367635,Backing Unsafely,2020-11-15T00:00:00.000,2020-12-14 12:10:00,40.606636,"{'latitude': '40.606636', 'longitude': '-74.00163'}",-74.00163,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,11214.0
+BROOKLYN,4373647,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 14:30:00,40.716778,"{'latitude': '40.716778', 'longitude': '-73.93635'}",-73.93635,1,0,0,0,0,0,1,0,Bike,11211.0
+BROOKLYN,4369007,Backing Unsafely,2020-11-16T00:00:00.000,2020-12-14 14:20:00,40.694874,"{'latitude': '40.694874', 'longitude': '-73.98468'}",-73.98468,0,0,1,0,0,0,1,0,Sedan,11201.0
+MANHATTAN,4361339,Traffic Control Disregarded,2020-10-25T00:00:00.000,2020-12-14 09:15:00,40.801765,"{'latitude': '40.801765', 'longitude': '-73.93723'}",-73.93723,0,0,0,0,0,0,0,0,Sedan,10035.0
+BRONX,4373770,Traffic Control Disregarded,2020-12-03T00:00:00.000,2020-12-14 22:55:00,40.818893,"{'latitude': '40.818893', 'longitude': '-73.89229'}",-73.89229,0,0,1,0,0,0,1,0,Sedan,10459.0
+BROOKLYN,4360986,Traffic Control Disregarded,2020-10-24T00:00:00.000,2020-12-14 00:55:00,40.636627,"{'latitude': '40.636627', 'longitude': '-73.94226'}",-73.94226,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11210.0
+BROOKLYN,4369050,Unspecified,2020-11-12T00:00:00.000,2020-12-14 20:56:00,40.641304,"{'latitude': '40.641304', 'longitude': '-73.94276'}",-73.94276,0,0,1,0,0,0,1,0,Sedan,11203.0
+BROOKLYN,4360626,Unspecified,2020-10-24T00:00:00.000,2020-12-14 12:52:00,40.667847,"{'latitude': '40.667847', 'longitude': '-73.99404'}",-73.99404,0,0,1,0,0,0,1,0,Pick-up Truck,11215.0
+QUEENS,4365449,Driver Inattention/Distraction,2020-11-08T00:00:00.000,2020-12-14 13:15:00,40.74706,"{'latitude': '40.74706', 'longitude': '-73.75566'}",-73.75566,0,0,0,0,0,0,0,0,Sedan,11364.0
+QUEENS,4362209,Unspecified,2020-10-28T00:00:00.000,2020-12-14 13:15:00,40.72165,"{'latitude': '40.72165', 'longitude': '-73.8096'}",-73.8096,0,0,0,0,0,0,0,0,Pick-up Truck,11366.0
+BROOKLYN,4374043,Reaction to Uninvolved Vehicle,2020-12-07T00:00:00.000,2020-12-14 18:30:00,40.578003,"{'latitude': '40.578003', 'longitude': '-73.9937'}",-73.9937,0,0,2,0,0,0,2,0,Station Wagon/Sport Utility Vehicle,11224.0
+QUEENS,4365327,Driver Inattention/Distraction,2020-11-06T00:00:00.000,2020-12-14 22:50:00,40.750717,"{'latitude': '40.750717', 'longitude': '-73.85877'}",-73.85877,0,0,1,0,0,0,1,0,Sedan,11368.0
+MANHATTAN,4366932,Driver Inattention/Distraction,2020-11-03T00:00:00.000,2020-12-14 18:00:00,40.719517,"{'latitude': '40.719517', 'longitude': '-73.994385'}",-73.994385,0,0,1,0,0,0,1,0,Sedan,10013.0
+MANHATTAN,4373835,Other Vehicular,2020-12-03T00:00:00.000,2020-12-14 14:45:00,40.817852,"{'latitude': '40.817852', 'longitude': '-73.94768'}",-73.94768,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10030.0
+QUEENS,4361296,Backing Unsafely,2020-10-26T00:00:00.000,2020-12-14 12:08:00,40.70772,"{'latitude': '40.70772', 'longitude': '-73.796326'}",-73.796326,0,0,0,0,1,0,1,0,Sedan,11432.0
+QUEENS,4369376,Failure to Yield Right-of-Way,2020-11-20T00:00:00.000,2020-12-14 18:25:00,40.678944,"{'latitude': '40.678944', 'longitude': '-73.83447'}",-73.83447,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11417.0
+BROOKLYN,4374350,Lost Consciousness,2020-12-08T00:00:00.000,2020-12-14 19:20:00,40.703938,"{'latitude': '40.703938', 'longitude': '-73.94962'}",-73.94962,0,0,0,0,0,0,0,0,Sedan,11206.0
+BROOKLYN,4361471,Traffic Control Disregarded,2020-10-26T00:00:00.000,2020-12-14 17:05:00,40.661983,"{'latitude': '40.661983', 'longitude': '-73.90198'}",-73.90198,0,0,3,0,0,0,3,0,Station Wagon/Sport Utility Vehicle,11212.0
+BROOKLYN,4361367,Driver Inattention/Distraction,2020-10-26T00:00:00.000,2020-12-14 12:55:00,40.62677,"{'latitude': '40.62677', 'longitude': '-73.946884'}",-73.946884,0,0,1,0,0,0,1,0,Sedan,11210.0
+QUEENS,4367699,Unspecified,2020-11-15T00:00:00.000,2020-12-14 04:10:00,40.694294,"{'latitude': '40.694294', 'longitude': '-73.74868'}",-73.74868,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11412.0
+BRONX,4362140,Unspecified,2020-10-28T00:00:00.000,2020-12-14 13:30:00,40.86879,"{'latitude': '40.86879', 'longitude': '-73.83168'}",-73.83168,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10475.0
+QUEENS,4362040,Driver Inattention/Distraction,2020-10-27T00:00:00.000,2020-12-14 21:30:00,40.69266,"{'latitude': '40.69266', 'longitude': '-73.85648'}",-73.85648,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11421.0
+BROOKLYN,4361325,Unspecified,2020-10-22T00:00:00.000,2020-12-14 15:00:00,40.65399,"{'latitude': '40.65399', 'longitude': '-73.883415'}",-73.883415,0,0,0,0,0,0,0,0,Sedan,11207.0
+MANHATTAN,4372804,Unspecified,2020-12-01T00:00:00.000,2020-12-14 13:55:00,40.80521,"{'latitude': '40.80521', 'longitude': '-73.94736'}",-73.94736,0,0,2,0,0,0,2,0,Sedan,10027.0
+MANHATTAN,4373226,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 21:00:00,40.74445,"{'latitude': '40.74445', 'longitude': '-73.97304'}",-73.97304,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10016.0
+BROOKLYN,4363988,Alcohol Involvement,2020-11-03T00:00:00.000,2020-12-14 06:51:00,40.6358,"{'latitude': '40.6358', 'longitude': '-73.903595'}",-73.903595,0,0,0,0,0,0,0,0,Sedan,11236.0
+BRONX,4362765,Brakes Defective,2020-10-30T00:00:00.000,2020-12-14 17:55:00,40.817863,"{'latitude': '40.817863', 'longitude': '-73.83852'}",-73.83852,0,0,1,0,0,0,1,0,Tractor Truck Diesel,10465.0
+QUEENS,4373198,Failure to Yield Right-of-Way,2020-12-04T00:00:00.000,2020-12-14 20:00:00,40.74052,"{'latitude': '40.74052', 'longitude': '-73.70259'}",-73.70259,0,0,0,0,0,0,0,0,Sedan,11004.0
+BROOKLYN,4371806,Unspecified,2020-11-29T00:00:00.000,2020-12-14 00:00:00,40.667145,"{'latitude': '40.667145', 'longitude': '-73.882576'}",-73.882576,0,0,0,0,0,0,0,0,Sedan,11208.0
+BRONX,4372579,Unspecified,2020-11-29T00:00:00.000,2020-12-14 10:00:00,40.87377,"{'latitude': '40.87377', 'longitude': '-73.82611'}",-73.82611,0,0,0,0,0,0,0,0,Motorcycle,10475.0
+QUEENS,4367059,Aggressive Driving/Road Rage,2020-11-10T00:00:00.000,2020-12-14 19:30:00,40.779278,"{'latitude': '40.779278', 'longitude': '-73.90088'}",-73.90088,0,0,1,0,0,0,1,0,Sedan,11105.0
+BRONX,4369910,Unspecified,2020-11-21T00:00:00.000,2020-12-14 22:00:00,40.82194,"{'latitude': '40.82194', 'longitude': '-73.852936'}",-73.852936,0,0,0,0,0,0,0,0,Sedan,10473.0
+BRONX,4370293,Passing or Lane Usage Improper,2020-11-23T00:00:00.000,2020-12-14 08:35:00,40.85284,"{'latitude': '40.85284', 'longitude': '-73.88512'}",-73.88512,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10458.0
+BROOKLYN,4369525,Turning Improperly,2020-11-21T00:00:00.000,2020-12-14 15:25:00,40.68405,"{'latitude': '40.68405', 'longitude': '-73.97746'}",-73.97746,0,0,3,0,0,0,3,0,Sedan,11217.0
+BRONX,4370756,Driver Inattention/Distraction,2020-11-25T00:00:00.000,2020-12-14 16:05:00,40.866634,"{'latitude': '40.866634', 'longitude': '-73.86088'}",-73.86088,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,10469.0
+QUEENS,4364416,Traffic Control Disregarded,2020-11-05T00:00:00.000,2020-12-14 05:38:00,40.766705,"{'latitude': '40.766705', 'longitude': '-73.89024'}",-73.89024,0,0,0,0,1,0,1,0,Sedan,11370.0
+BROOKLYN,4373311,Unspecified,2020-12-05T00:00:00.000,2020-12-14 14:30:00,40.659847,"{'latitude': '40.659847', 'longitude': '-73.97926'}",-73.97926,0,0,0,0,0,0,0,0,Sedan,11215.0
+BROOKLYN,4369825,Unspecified,2020-11-21T00:00:00.000,2020-12-14 16:10:00,40.65239,"{'latitude': '40.65239', 'longitude': '-73.9264'}",-73.9264,0,0,0,0,0,0,0,0,Sedan,11203.0
+BRONX,4364338,Unspecified,2020-11-04T00:00:00.000,2020-12-14 18:30:00,40.878284,"{'latitude': '40.878284', 'longitude': '-73.90803'}",-73.90803,0,0,0,0,0,0,0,0,Sedan,10463.0
+BRONX,4359268,Backing Unsafely,2020-10-17T00:00:00.000,2020-12-14 23:34:00,40.846516,"{'latitude': '40.846516', 'longitude': '-73.89537'}",-73.89537,0,0,0,0,0,0,0,0,Sedan,10457.0
+BRONX,4363783,Unsafe Speed,2020-11-01T00:00:00.000,2020-12-14 19:15:00,40.88933,"{'latitude': '40.88933', 'longitude': '-73.83469'}",-73.83469,0,0,3,0,0,0,3,0,Sedan,10466.0
+BROOKLYN,4371710,Driver Inattention/Distraction,2020-11-29T00:00:00.000,2020-12-14 12:52:00,40.673065,"{'latitude': '40.673065', 'longitude': '-73.97189'}",-73.97189,0,0,4,0,0,0,4,0,Taxi,11215.0
+MANHATTAN,4374480,Passing or Lane Usage Improper,2020-12-08T00:00:00.000,2020-12-14 16:55:00,40.780018,"{'latitude': '40.780018', 'longitude': '-73.98285'}",-73.98285,0,0,0,0,0,0,0,0,Sedan,10023.0
+BRONX,4372197,Driver Inattention/Distraction,2020-11-29T00:00:00.000,2020-12-14 12:30:00,40.877697,"{'latitude': '40.877697', 'longitude': '-73.85636'}",-73.85636,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10469.0
+QUEENS,4366545,Backing Unsafely,2020-11-06T00:00:00.000,2020-12-14 12:45:00,40.75498,"{'latitude': '40.75498', 'longitude': '-73.890816'}",-73.890816,0,0,0,0,0,0,0,0,Sedan,11372.0
+QUEENS,4371169,Driver Inattention/Distraction,2020-11-27T00:00:00.000,2020-12-14 07:54:00,40.596325,"{'latitude': '40.596325', 'longitude': '-73.76673'}",-73.76673,0,0,0,0,0,0,0,0,Sedan,11691.0
+BROOKLYN,4369258,Driver Inattention/Distraction,2020-11-20T00:00:00.000,2020-12-14 17:50:00,40.66551,"{'latitude': '40.66551', 'longitude': '-73.992775'}",-73.992775,0,0,0,0,0,0,0,0,Sedan,11215.0
+BROOKLYN,4368660,Unspecified,2020-11-17T00:00:00.000,2020-12-14 11:30:00,40.646175,"{'latitude': '40.646175', 'longitude': '-73.88953'}",-73.88953,0,0,0,0,0,0,0,0,Sedan,11236.0
+BRONX,4372539,Unspecified,2020-11-30T00:00:00.000,2020-12-14 17:08:00,40.828945,"{'latitude': '40.828945', 'longitude': '-73.85666'}",-73.85666,0,0,0,0,0,0,0,0,Sedan,10472.0
+QUEENS,4366271,Following Too Closely,2020-11-10T00:00:00.000,2020-12-14 17:31:00,40.70605,"{'latitude': '40.70605', 'longitude': '-73.83142'}",-73.83142,0,0,1,0,0,0,1,0,Sedan,11415.0
+BRONX,4362271,Unspecified,2020-10-23T00:00:00.000,2020-12-14 22:05:00,40.820515,"{'latitude': '40.820515', 'longitude': '-73.930695'}",-73.930695,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10451.0
+BRONX,4372274,Unspecified,2020-11-30T00:00:00.000,2020-12-14 11:10:00,40.873695,"{'latitude': '40.873695', 'longitude': '-73.90816'}",-73.90816,0,0,0,0,1,0,1,0,,10463.0
+BROOKLYN,4369132,Reaction to Uninvolved Vehicle,2020-11-19T00:00:00.000,2020-12-14 17:35:00,40.699482,"{'latitude': '40.699482', 'longitude': '-73.96104'}",-73.96104,0,0,0,0,0,0,0,0,Pick-up Truck,11249.0
+QUEENS,4365984,Traffic Control Disregarded,2020-11-09T00:00:00.000,2020-12-14 16:10:00,40.67646,"{'latitude': '40.67646', 'longitude': '-73.80752'}",-73.80752,0,0,2,0,0,0,2,0,Station Wagon/Sport Utility Vehicle,11420.0
+BROOKLYN,4358451,Aggressive Driving/Road Rage,2020-10-16T00:00:00.000,2020-12-14 14:24:00,40.61957,"{'latitude': '40.61957', 'longitude': '-73.93355'}",-73.93355,0,0,0,0,0,0,0,0,Sedan,11234.0
+BRONX,4364295,Unspecified,2020-11-03T00:00:00.000,2020-12-14 18:34:00,40.831875,"{'latitude': '40.831875', 'longitude': '-73.86636'}",-73.86636,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10472.0
+BRONX,4366412,Passing Too Closely,2020-11-10T00:00:00.000,2020-12-14 07:24:00,40.831768,"{'latitude': '40.831768', 'longitude': '-73.90803'}",-73.90803,0,0,0,0,0,0,0,0,Sedan,10456.0
+BROOKLYN,4362863,Unspecified,2020-10-31T00:00:00.000,2020-12-14 02:24:00,40.671032,"{'latitude': '40.671032', 'longitude': '-73.87814'}",-73.87814,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11208.0
+QUEENS,4369721,Following Too Closely,2020-11-16T00:00:00.000,2020-12-14 13:00:00,40.702187,"{'latitude': '40.702187', 'longitude': '-73.89344'}",-73.89344,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11385.0
+BRONX,4372832,Driver Inattention/Distraction,2020-12-02T00:00:00.000,2020-12-14 17:00:00,40.868694,"{'latitude': '40.868694', 'longitude': '-73.90237'}",-73.90237,0,0,0,0,1,0,1,0,Sedan,10468.0
+BROOKLYN,4367737,Driver Inattention/Distraction,2020-11-15T00:00:00.000,2020-12-14 17:25:00,40.68293,"{'latitude': '40.68293', 'longitude': '-73.910515'}",-73.910515,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11207.0
+BRONX,4372204,Passenger Distraction,2020-11-27T00:00:00.000,2020-12-14 00:45:00,40.863556,"{'latitude': '40.863556', 'longitude': '-73.90755'}",-73.90755,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10468.0
+QUEENS,4358561,Driver Inattention/Distraction,2020-10-18T00:00:00.000,2020-12-14 00:30:00,40.753998,"{'latitude': '40.753998', 'longitude': '-73.94244'}",-73.94244,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11101.0
+QUEENS,4365907,Unspecified,2020-11-09T00:00:00.000,2020-12-14 06:20:00,40.690742,"{'latitude': '40.690742', 'longitude': '-73.80432'}",-73.80432,0,0,0,0,0,0,0,0,Sedan,11435.0
+QUEENS,4358962,Unspecified,2020-10-17T00:00:00.000,2020-12-14 16:16:00,40.69612,"{'latitude': '40.69612', 'longitude': '-73.74619'}",-73.74619,0,0,0,0,0,0,0,0,Sedan,11412.0
+QUEENS,4366056,Unspecified,2020-11-10T00:00:00.000,2020-12-14 00:35:00,40.762905,"{'latitude': '40.762905', 'longitude': '-73.7949'}",-73.7949,0,0,0,0,0,0,0,0,Sedan,11358.0
+MANHATTAN,4359510,Driver Inattention/Distraction,2020-10-20T00:00:00.000,2020-12-14 01:52:00,40.75478,"{'latitude': '40.75478', 'longitude': '-73.97994'}",-73.97994,0,0,2,0,0,0,2,0,Taxi,10017.0
+BROOKLYN,4370523,Driver Inattention/Distraction,2020-11-22T00:00:00.000,2020-12-14 20:30:00,40.651264,"{'latitude': '40.651264', 'longitude': '-74.003914'}",-74.003914,0,0,0,0,0,0,0,0,Tractor Truck Diesel,11232.0
+QUEENS,4359456,Glare,2020-10-19T00:00:00.000,2020-12-14 13:58:00,40.77284,"{'latitude': '40.77284', 'longitude': '-73.839165'}",-73.839165,0,0,0,0,0,0,0,0,Van,11354.0
+QUEENS,4368722,Driver Inattention/Distraction,2020-11-18T00:00:00.000,2020-12-14 12:30:00,40.69317,"{'latitude': '40.69317', 'longitude': '-73.83122'}",-73.83122,0,0,0,0,0,0,0,0,Van,11418.0
+BROOKLYN,4365886,Passing or Lane Usage Improper,2020-11-09T00:00:00.000,2020-12-14 13:30:00,40.70721,"{'latitude': '40.70721', 'longitude': '-73.93656'}",-73.93656,0,0,0,0,0,0,0,0,Sedan,11206.0
+MANHATTAN,4364498,Passing Too Closely,2020-11-05T00:00:00.000,2020-12-14 03:25:00,40.80142,"{'latitude': '40.80142', 'longitude': '-73.93446'}",-73.93446,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10035.0
+BROOKLYN,4367832,Following Too Closely,2020-11-13T00:00:00.000,2020-12-14 23:10:00,40.628292,"{'latitude': '40.628292', 'longitude': '-73.91697'}",-73.91697,0,0,0,0,0,0,0,0,Sedan,11234.0
+QUEENS,4370880,Driver Inattention/Distraction,2020-11-24T00:00:00.000,2020-12-14 17:00:00,40.76423,"{'latitude': '40.76423', 'longitude': '-73.87554'}",-73.87554,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,11369.0
+MANHATTAN,4362430,Driver Inattention/Distraction,2020-10-29T00:00:00.000,2020-12-14 21:50:00,40.74639,"{'latitude': '40.74639', 'longitude': '-73.977646'}",-73.977646,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,10016.0
+QUEENS,4372361,Unspecified,2020-12-01T00:00:00.000,2020-12-14 10:30:00,40.691715,"{'latitude': '40.691715', 'longitude': '-73.73483'}",-73.73483,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11411.0
+MANHATTAN,4363695,View Obstructed/Limited,2020-11-02T00:00:00.000,2020-12-14 17:33:00,40.80629,"{'latitude': '40.80629', 'longitude': '-73.95773'}",-73.95773,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10026.0
+QUEENS,4372359,Driver Inexperience,2020-11-30T00:00:00.000,2020-12-14 07:50:00,40.71479,"{'latitude': '40.71479', 'longitude': '-73.77487'}",-73.77487,0,0,0,0,0,0,0,0,Sedan,11432.0
+BRONX,4362495,Backing Unsafely,2020-10-28T00:00:00.000,2020-12-14 16:15:00,40.816196,"{'latitude': '40.816196', 'longitude': '-73.896'}",-73.896,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10459.0
+BRONX,4370353,Unspecified,2020-11-23T00:00:00.000,2020-12-14 14:30:00,40.83784,"{'latitude': '40.83784', 'longitude': '-73.85452'}",-73.85452,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10462.0
+QUEENS,4369662,Passing or Lane Usage Improper,2020-11-22T00:00:00.000,2020-12-14 13:05:00,40.66786,"{'latitude': '40.66786', 'longitude': '-73.76656'}",-73.76656,0,0,2,0,0,0,2,0,Sedan,11434.0
+QUEENS,4373558,Driver Inattention/Distraction,2020-12-06T00:00:00.000,2020-12-14 00:00:00,40.746235,"{'latitude': '40.746235', 'longitude': '-73.89895'}",-73.89895,0,0,0,0,0,0,0,0,Taxi,11377.0
+BRONX,4369688,Alcohol Involvement,2020-11-20T00:00:00.000,2020-12-14 20:50:00,40.879055,"{'latitude': '40.879055', 'longitude': '-73.851875'}",-73.851875,0,0,0,0,0,0,0,0,Van,10469.0
+BROOKLYN,4370334,Driver Inattention/Distraction,2020-11-24T00:00:00.000,2020-12-14 07:15:00,40.60469,"{'latitude': '40.60469', 'longitude': '-73.94631'}",-73.94631,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11229.0
+BRONX,4361938,Brakes Defective,2020-10-27T00:00:00.000,2020-12-14 06:55:00,40.850082,"{'latitude': '40.850082', 'longitude': '-73.86294'}",-73.86294,0,0,1,0,0,0,1,0,3-Door,10462.0
+QUEENS,4358476,Driver Inattention/Distraction,2020-10-17T00:00:00.000,2020-12-14 06:15:00,40.76229,"{'latitude': '40.76229', 'longitude': '-73.75711'}",-73.75711,0,0,0,0,0,0,0,0,Sedan,11363.0
+QUEENS,4363422,View Obstructed/Limited,2020-11-02T00:00:00.000,2020-12-14 07:20:00,40.757492,"{'latitude': '40.757492', 'longitude': '-73.93911'}",-73.93911,0,0,0,0,0,0,0,0,DELV,11101.0
+BROOKLYN,4358346,Unspecified,2020-10-16T00:00:00.000,2020-12-14 16:00:00,40.674416,"{'latitude': '40.674416', 'longitude': '-73.9042'}",-73.9042,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11212.0
+BRONX,4359063,Unspecified,2020-10-17T00:00:00.000,2020-12-14 17:10:00,40.818096,"{'latitude': '40.818096', 'longitude': '-73.91626'}",-73.91626,0,0,1,0,0,0,1,0,Sedan,10455.0
+QUEENS,4374266,Passing or Lane Usage Improper,2020-12-07T00:00:00.000,2020-12-14 17:00:00,40.693115,"{'latitude': '40.693115', 'longitude': '-73.81977'}",-73.81977,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11419.0
+QUEENS,4371589,Glare,2020-11-20T00:00:00.000,2020-12-14 12:55:00,40.60957,"{'latitude': '40.60957', 'longitude': '-73.81905'}",-73.81905,0,0,0,0,0,0,0,0,Sedan,11693.0
+BRONX,4369911,Failure to Yield Right-of-Way,2020-11-23T00:00:00.000,2020-12-14 01:40:00,40.832233,"{'latitude': '40.832233', 'longitude': '-73.85427'}",-73.85427,0,0,0,0,0,0,0,0,Sedan,10462.0
+QUEENS,4367058,Unspecified,2020-11-06T00:00:00.000,2020-12-14 14:40:00,40.75537,"{'latitude': '40.75537', 'longitude': '-73.91132'}",-73.91132,0,0,0,0,0,0,0,0,Sedan,11377.0
+MANHATTAN,4364646,Driver Inattention/Distraction,2020-11-05T00:00:00.000,2020-12-14 16:25:00,40.75898,"{'latitude': '40.75898', 'longitude': '-73.99595'}",-73.99595,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10036.0
+BROOKLYN,4364999,Unspecified,2020-11-06T00:00:00.000,2020-12-14 17:26:00,40.600426,"{'latitude': '40.600426', 'longitude': '-73.941895'}",-73.941895,0,0,1,0,0,0,1,0,Sedan,11229.0
+BROOKLYN,4359694,Obstruction/Debris,2020-10-20T00:00:00.000,2020-12-14 18:25:00,40.712784,"{'latitude': '40.712784', 'longitude': '-73.937256'}",-73.937256,0,0,1,0,0,0,1,0,Moped,11211.0
+QUEENS,4362175,Driver Inattention/Distraction,2020-10-28T00:00:00.000,2020-12-14 20:09:00,40.75,"{'latitude': '40.75', 'longitude': '-73.89924'}",-73.89924,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11377.0
+BROOKLYN,4372751,Traffic Control Disregarded,2020-12-02T00:00:00.000,2020-12-14 07:10:00,40.701397,"{'latitude': '40.701397', 'longitude': '-73.95808'}",-73.95808,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11211.0
+BROOKLYN,4361763,Unsafe Speed,2020-10-18T00:00:00.000,2020-12-14 05:00:00,40.69243,"{'latitude': '40.69243', 'longitude': '-73.92924'}",-73.92924,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11221.0
+BRONX,4360067,Alcohol Involvement,2020-10-17T00:00:00.000,2020-12-14 00:07:00,40.90355,"{'latitude': '40.90355', 'longitude': '-73.854836'}",-73.854836,0,0,0,0,0,0,0,0,Sedan,10470.0
+BROOKLYN,4363274,Unspecified,2020-10-30T00:00:00.000,2020-12-14 21:15:00,40.645363,"{'latitude': '40.645363', 'longitude': '-73.90395'}",-73.90395,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11236.0
+BRONX,4360817,Reaction to Uninvolved Vehicle,2020-10-19T00:00:00.000,2020-12-14 18:30:00,40.89084,"{'latitude': '40.89084', 'longitude': '-73.862175'}",-73.862175,0,0,0,0,0,0,0,0,Ambulance,10466.0
+BROOKLYN,4359591,Failure to Yield Right-of-Way,2020-10-20T00:00:00.000,2020-12-14 10:27:00,40.61652,"{'latitude': '40.61652', 'longitude': '-73.98586'}",-73.98586,0,0,0,0,0,0,0,0,Sedan,11204.0
+BROOKLYN,4371891,Alcohol Involvement,2020-11-26T00:00:00.000,2020-12-14 20:50:00,40.615234,"{'latitude': '40.615234', 'longitude': '-73.93003'}",-73.93003,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11234.0
+BRONX,4366382,Unspecified,2020-11-10T00:00:00.000,2020-12-14 21:53:00,40.818954,"{'latitude': '40.818954', 'longitude': '-73.91404'}",-73.91404,0,0,0,0,0,0,0,0,4 dr sedan,10455.0
+BROOKLYN,4360430,Driver Inattention/Distraction,2020-10-23T00:00:00.000,2020-12-14 09:50:00,40.72051,"{'latitude': '40.72051', 'longitude': '-73.94396'}",-73.94396,0,0,0,0,0,0,0,0,Box Truck,11222.0
+BRONX,4364412,Driver Inattention/Distraction,2020-11-04T00:00:00.000,2020-12-14 11:35:00,40.83263,"{'latitude': '40.83263', 'longitude': '-73.89137'}",-73.89137,0,0,0,0,1,0,1,0,Sedan,10460.0
+BROOKLYN,4371705,Driver Inattention/Distraction,2020-11-29T00:00:00.000,2020-12-14 17:30:00,40.631805,"{'latitude': '40.631805', 'longitude': '-73.988304'}",-73.988304,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11219.0
+MANHATTAN,4367069,Driver Inattention/Distraction,2020-11-07T00:00:00.000,2020-12-14 08:20:00,40.712597,"{'latitude': '40.712597', 'longitude': '-73.99889'}",-73.99889,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10038.0
+BROOKLYN,4371204,Traffic Control Disregarded,2020-11-27T00:00:00.000,2020-12-14 16:30:00,40.602573,"{'latitude': '40.602573', 'longitude': '-73.94332'}",-73.94332,0,0,3,0,0,0,3,0,Station Wagon/Sport Utility Vehicle,11229.0
+BROOKLYN,4359708,Failure to Yield Right-of-Way,2020-10-20T00:00:00.000,2020-12-14 14:05:00,40.683464,"{'latitude': '40.683464', 'longitude': '-73.97569'}",-73.97569,0,0,0,0,0,0,0,0,Tractor Truck Diesel,11217.0
+BROOKLYN,4373752,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 23:40:00,40.64315,"{'latitude': '40.64315', 'longitude': '-73.97548'}",-73.97548,0,0,3,0,0,0,3,0,Station Wagon/Sport Utility Vehicle,11218.0
+QUEENS,4366656,Driver Inattention/Distraction,2020-11-11T00:00:00.000,2020-12-14 08:52:00,40.71991,"{'latitude': '40.71991', 'longitude': '-73.809044'}",-73.809044,0,0,0,0,0,0,0,0,Pick-up Truck,11367.0
+BROOKLYN,4358877,Failure to Yield Right-of-Way,2020-10-17T00:00:00.000,2020-12-14 18:45:00,40.656693,"{'latitude': '40.656693', 'longitude': '-73.89464'}",-73.89464,1,0,0,0,0,0,1,0,Sedan,11207.0
+QUEENS,4363281,Aggressive Driving/Road Rage,2020-10-31T00:00:00.000,2020-12-14 06:05:00,40.70741,"{'latitude': '40.70741', 'longitude': '-73.78102'}",-73.78102,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11433.0
+QUEENS,4362547,Driver Inattention/Distraction,2020-10-28T00:00:00.000,2020-12-14 15:30:00,40.672623,"{'latitude': '40.672623', 'longitude': '-73.77064'}",-73.77064,0,0,0,0,1,0,1,0,Sedan,11434.0
+BROOKLYN,4364279,Glare,2020-11-04T00:00:00.000,2020-12-14 15:16:00,40.655846,"{'latitude': '40.655846', 'longitude': '-73.94316'}",-73.94316,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,11203.0
+BROOKLYN,4368785,Unspecified,2020-11-18T00:00:00.000,2020-12-14 11:56:00,40.63948,"{'latitude': '40.63948', 'longitude': '-74.016174'}",-74.016174,0,0,0,0,0,0,0,0,Sedan,11220.0
+BRONX,4369942,Failure to Yield Right-of-Way,2020-11-22T00:00:00.000,2020-12-14 14:50:00,40.850853,"{'latitude': '40.850853', 'longitude': '-73.89393'}",-73.89393,0,0,0,0,0,0,0,0,Sedan,10457.0
+BROOKLYN,4373237,Driver Inattention/Distraction,2020-12-05T00:00:00.000,2020-12-14 04:00:00,40.596233,"{'latitude': '40.596233', 'longitude': '-73.938194'}",-73.938194,0,0,0,0,0,0,0,0,Sedan,11229.0
+BRONX,4371487,Aggressive Driving/Road Rage,2020-11-27T00:00:00.000,2020-12-14 20:00:00,40.881264,"{'latitude': '40.881264', 'longitude': '-73.83875'}",-73.83875,0,0,0,0,0,0,0,0,Sedan,10466.0
+QUEENS,4364617,Brakes Defective,2020-11-05T00:00:00.000,2020-12-14 15:10:00,40.721592,"{'latitude': '40.721592', 'longitude': '-73.777084'}",-73.777084,0,0,0,0,0,0,0,0,Bus,11432.0
+QUEENS,4365862,Unspecified,2020-11-09T00:00:00.000,2020-12-14 09:45:00,40.715454,"{'latitude': '40.715454', 'longitude': '-73.731'}",-73.731,0,0,0,0,0,0,0,0,Sedan,11429.0
+BROOKLYN,4365203,Unspecified,2020-11-01T00:00:00.000,2020-12-14 15:30:00,40.644405,"{'latitude': '40.644405', 'longitude': '-73.964096'}",-73.964096,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11226.0
+BRONX,4371471,Animals Action,2020-11-25T00:00:00.000,2020-12-14 05:30:00,40.885883,"{'latitude': '40.885883', 'longitude': '-73.82282'}",-73.82282,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10475.0
+QUEENS,4370637,Driver Inattention/Distraction,2020-11-24T00:00:00.000,2020-12-14 18:20:00,40.743923,"{'latitude': '40.743923', 'longitude': '-73.85733'}",-73.85733,0,0,3,0,0,0,3,0,Station Wagon/Sport Utility Vehicle,11368.0
+BROOKLYN,4364065,Unsafe Speed,2020-11-03T00:00:00.000,2020-12-14 13:48:00,40.71393,"{'latitude': '40.71393', 'longitude': '-73.940056'}",-73.940056,0,0,0,0,0,0,0,0,Sedan,11211.0
+BROOKLYN,4374090,Driver Inattention/Distraction,2020-12-07T00:00:00.000,2020-12-14 16:09:00,40.638428,"{'latitude': '40.638428', 'longitude': '-73.951164'}",-73.951164,0,0,1,0,0,0,1,0,Sedan,11210.0
+QUEENS,4373738,Driver Inattention/Distraction,2020-12-06T00:00:00.000,2020-12-14 21:25:00,40.744934,"{'latitude': '40.744934', 'longitude': '-73.86792'}",-73.86792,1,0,0,0,0,0,1,0,Taxi,11368.0
+BROOKLYN,4370643,Driver Inattention/Distraction,2020-11-23T00:00:00.000,2020-12-14 17:30:00,40.64906,"{'latitude': '40.64906', 'longitude': '-73.91326'}",-73.91326,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11236.0
+QUEENS,4363724,Turning Improperly,2020-11-02T00:00:00.000,2020-12-14 19:30:00,40.721214,"{'latitude': '40.721214', 'longitude': '-73.74536'}",-73.74536,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11428.0
+MANHATTAN,4367133,Reaction to Uninvolved Vehicle,2020-11-09T00:00:00.000,2020-12-14 06:00:00,40.79162,"{'latitude': '40.79162', 'longitude': '-73.94885'}",-73.94885,0,0,0,0,0,0,0,0,Sedan,10029.0
+BRONX,4373882,View Obstructed/Limited,2020-11-29T00:00:00.000,2020-12-14 20:08:00,40.885098,"{'latitude': '40.885098', 'longitude': '-73.90066'}",-73.90066,0,0,0,0,1,0,1,0,Sedan,10463.0
+BROOKLYN,4366489,Turning Improperly,2020-11-10T00:00:00.000,2020-12-14 15:10:00,40.66059,"{'latitude': '40.66059', 'longitude': '-73.931335'}",-73.931335,0,0,1,0,0,0,1,0,Motorbike,11203.0
+QUEENS,4365544,Driver Inattention/Distraction,2020-11-08T00:00:00.000,2020-12-14 18:30:00,40.759884,"{'latitude': '40.759884', 'longitude': '-73.9368'}",-73.9368,0,0,1,0,0,0,1,0,Sedan,11106.0
+BROOKLYN,4363982,Unspecified,2020-11-03T00:00:00.000,2020-12-14 16:09:00,40.608494,"{'latitude': '40.608494', 'longitude': '-73.97593'}",-73.97593,0,0,2,0,0,0,2,0,Sedan,11204.0
+BRONX,4358794,Traffic Control Disregarded,2020-10-18T00:00:00.000,2020-12-14 03:21:00,40.87789,"{'latitude': '40.87789', 'longitude': '-73.85093'}",-73.85093,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,10469.0
+QUEENS,4372498,Oversized Vehicle,2020-12-01T00:00:00.000,2020-12-14 18:50:00,40.600536,"{'latitude': '40.600536', 'longitude': '-73.74713'}",-73.74713,0,0,0,0,0,0,0,0,Ambulance,11691.0
+BROOKLYN,4364331,Unspecified,2020-11-04T00:00:00.000,2020-12-14 10:10:00,40.620293,"{'latitude': '40.620293', 'longitude': '-73.99374'}",-73.99374,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11204.0
+BROOKLYN,4373347,Turning Improperly,2020-12-05T00:00:00.000,2020-12-14 23:40:00,40.683952,"{'latitude': '40.683952', 'longitude': '-73.96498'}",-73.96498,0,0,0,0,0,0,0,0,Taxi,11238.0
+BRONX,4358577,Unspecified,2020-10-17T00:00:00.000,2020-12-14 21:50:00,40.82565,"{'latitude': '40.82565', 'longitude': '-73.90478'}",-73.90478,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10456.0
+BRONX,4370723,Unsafe Speed,2020-11-24T00:00:00.000,2020-12-14 13:20:00,40.878365,"{'latitude': '40.878365', 'longitude': '-73.83935'}",-73.83935,0,0,0,0,0,0,0,0,Sedan,10469.0
+QUEENS,4369715,Driver Inexperience,2020-11-13T00:00:00.000,2020-12-14 17:30:00,40.72616,"{'latitude': '40.72616', 'longitude': '-73.90012'}",-73.90012,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11378.0
+QUEENS,4359730,Unspecified,2020-10-20T00:00:00.000,2020-12-14 18:57:00,40.76201,"{'latitude': '40.76201', 'longitude': '-73.91655'}",-73.91655,0,0,0,0,0,0,0,0,Pick-up Truck,11103.0
+BROOKLYN,4373376,Unspecified,2020-12-03T00:00:00.000,2020-12-14 11:00:00,40.575207,"{'latitude': '40.575207', 'longitude': '-73.97581'}",-73.97581,0,0,0,0,0,0,0,0,Sedan,11224.0
+BROOKLYN,4371960,Oversized Vehicle,2020-11-23T00:00:00.000,2020-12-14 11:36:00,40.684937,"{'latitude': '40.684937', 'longitude': '-73.91014'}",-73.91014,1,0,0,0,0,0,1,0,PK,11207.0
+BRONX,4365414,Driver Inattention/Distraction,2020-11-07T00:00:00.000,2020-12-14 16:35:00,40.84343,"{'latitude': '40.84343', 'longitude': '-73.88254'}",-73.88254,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,10460.0
+QUEENS,4361800,Unsafe Speed,2020-10-27T00:00:00.000,2020-12-14 18:20:00,40.730957,"{'latitude': '40.730957', 'longitude': '-73.85626'}",-73.85626,0,0,0,0,1,0,1,0,,11374.0
+QUEENS,4360590,Driver Inattention/Distraction,2020-10-24T00:00:00.000,2020-12-14 04:20:00,40.70417,"{'latitude': '40.70417', 'longitude': '-73.81538'}",-73.81538,0,0,0,0,0,0,0,0,Sedan,11435.0
+MANHATTAN,4361815,Outside Car Distraction,2020-10-26T00:00:00.000,2020-12-14 17:54:00,40.74811,"{'latitude': '40.74811', 'longitude': '-74.00124'}",-74.00124,0,0,0,0,0,0,0,0,Taxi,10001.0
+BROOKLYN,4372429,Traffic Control Disregarded,2020-11-24T00:00:00.000,2020-12-14 09:43:00,40.665375,"{'latitude': '40.665375', 'longitude': '-73.934235'}",-73.934235,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11213.0
+BRONX,4367935,Other Vehicular,2020-11-14T00:00:00.000,2020-12-14 12:34:00,40.852573,"{'latitude': '40.852573', 'longitude': '-73.893684'}",-73.893684,0,0,0,0,0,0,0,0,Sedan,10457.0
+QUEENS,4362552,Driver Inattention/Distraction,2020-10-29T00:00:00.000,2020-12-14 14:45:00,40.6968,"{'latitude': '40.6968', 'longitude': '-73.7465'}",-73.7465,0,0,0,0,0,0,0,0,Sedan,11411.0
+BROOKLYN,4369854,Unspecified,2020-11-17T00:00:00.000,2020-12-14 16:50:00,40.629986,"{'latitude': '40.629986', 'longitude': '-73.99737'}",-73.99737,0,0,0,0,0,0,0,0,Sedan,11219.0
+BROOKLYN,4371551,Unspecified,2020-11-28T00:00:00.000,2020-12-14 14:30:00,40.649185,"{'latitude': '40.649185', 'longitude': '-73.95287'}",-73.95287,0,0,0,0,0,0,0,0,Sedan,11226.0
+BROOKLYN,4374955,Alcohol Involvement,2020-12-06T00:00:00.000,2020-12-14 13:20:00,40.701378,"{'latitude': '40.701378', 'longitude': '-73.9835'}",-73.9835,0,0,0,0,0,0,0,0,Sedan,11201.0
+BROOKLYN,4366469,Driver Inattention/Distraction,2020-11-10T00:00:00.000,2020-12-14 08:27:00,40.66917,"{'latitude': '40.66917', 'longitude': '-73.98631'}",-73.98631,2,0,0,0,0,0,2,0,Sedan,11215.0
+BRONX,4372556,Unspecified,2020-12-01T00:00:00.000,2020-12-14 15:37:00,40.826855,"{'latitude': '40.826855', 'longitude': '-73.922676'}",-73.922676,0,0,0,0,0,0,0,0,Sedan,10451.0
+MANHATTAN,4371610,Alcohol Involvement,2020-11-29T00:00:00.000,2020-12-14 02:37:00,40.837284,"{'latitude': '40.837284', 'longitude': '-73.9468'}",-73.9468,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10032.0
+BROOKLYN,4371778,Unspecified,2020-11-29T00:00:00.000,2020-12-14 22:20:00,40.671165,"{'latitude': '40.671165', 'longitude': '-73.895676'}",-73.895676,0,0,0,0,0,0,0,0,Ambulance,11207.0
+QUEENS,4370323,Following Too Closely,2020-11-23T00:00:00.000,2020-12-14 16:51:00,40.66612,"{'latitude': '40.66612', 'longitude': '-73.82225'}",-73.82225,0,0,0,0,0,0,0,0,Sedan,11420.0
+BROOKLYN,4363345,Unsafe Lane Changing,2020-10-31T00:00:00.000,2020-12-14 10:00:00,40.58655,"{'latitude': '40.58655', 'longitude': '-73.96617'}",-73.96617,0,0,0,0,0,0,0,0,Sedan,11235.0
+MANHATTAN,4360718,Driver Inattention/Distraction,2020-10-21T00:00:00.000,2020-12-14 14:30:00,40.727425,"{'latitude': '40.727425', 'longitude': '-73.976425'}",-73.976425,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10009.0
+BRONX,4368935,Unspecified,2020-11-06T00:00:00.000,2020-12-14 12:40:00,40.885757,"{'latitude': '40.885757', 'longitude': '-73.82837'}",-73.82837,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,10475.0
+MANHATTAN,4374406,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 17:30:00,40.763733,"{'latitude': '40.763733', 'longitude': '-73.962074'}",-73.962074,0,0,0,0,0,0,0,0,PK,10065.0
+BROOKLYN,4361723,Traffic Control Disregarded,2020-10-26T00:00:00.000,2020-12-14 14:20:00,40.673252,"{'latitude': '40.673252', 'longitude': '-73.87773'}",-73.87773,0,0,0,0,0,0,0,0,Sedan,11208.0
+BROOKLYN,4366262,Unspecified,2020-11-09T00:00:00.000,2020-12-14 23:00:00,40.676758,"{'latitude': '40.676758', 'longitude': '-73.917404'}",-73.917404,0,0,0,0,0,0,0,0,Sedan,11233.0
+BROOKLYN,4371901,Unspecified,2020-11-19T00:00:00.000,2020-12-14 21:45:00,40.62135,"{'latitude': '40.62135', 'longitude': '-73.91747'}",-73.91747,0,0,1,0,0,0,1,0,Sedan,11234.0
+BROOKLYN,4360910,Unspecified,2020-10-25T00:00:00.000,2020-12-14 13:18:00,40.68728,"{'latitude': '40.68728', 'longitude': '-73.97979'}",-73.97979,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11217.0
+MANHATTAN,4368021,Failure to Yield Right-of-Way,2020-11-15T00:00:00.000,2020-12-14 12:45:00,40.754677,"{'latitude': '40.754677', 'longitude': '-73.975815'}",-73.975815,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10169.0
+QUEENS,4371137,Unspecified,2020-11-23T00:00:00.000,2020-12-14 19:40:00,40.713226,"{'latitude': '40.713226', 'longitude': '-73.82343'}",-73.82343,0,0,0,0,1,0,1,0,Sedan,11435.0
+BROOKLYN,4368001,Unspecified,2020-11-16T00:00:00.000,2020-12-14 06:00:00,40.684395,"{'latitude': '40.684395', 'longitude': '-73.97835'}",-73.97835,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11217.0
+BROOKLYN,4367301,Unspecified,2020-11-13T00:00:00.000,2020-12-14 16:12:00,40.635098,"{'latitude': '40.635098', 'longitude': '-73.917915'}",-73.917915,0,0,0,0,0,0,0,0,Sedan,11236.0
+BROOKLYN,4373929,Other Vehicular,2020-12-07T00:00:00.000,2020-12-14 00:40:00,40.66999,"{'latitude': '40.66999', 'longitude': '-73.85912'}",-73.85912,0,0,0,0,0,0,0,0,Sedan,11208.0
+MANHATTAN,4360687,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2020-10-24T00:00:00.000,2020-12-14 19:02:00,40.760162,"{'latitude': '40.760162', 'longitude': '-73.9633'}",-73.9633,0,0,0,0,0,0,0,0,Sedan,10022.0
+MANHATTAN,4368638,Driver Inattention/Distraction,2020-11-16T00:00:00.000,2020-12-14 18:50:00,40.782463,"{'latitude': '40.782463', 'longitude': '-73.97883'}",-73.97883,0,0,0,0,0,0,0,0,Sedan,10024.0
+QUEENS,4362030,Driver Inattention/Distraction,2020-10-28T00:00:00.000,2020-12-14 00:10:00,40.686783,"{'latitude': '40.686783', 'longitude': '-73.859985'}",-73.859985,0,0,0,0,0,0,0,0,Sedan,11421.0
+QUEENS,4373423,Passing or Lane Usage Improper,2020-12-05T00:00:00.000,2020-12-14 09:30:00,40.78331,"{'latitude': '40.78331', 'longitude': '-73.91879'}",-73.91879,0,0,0,0,0,0,0,0,Sedan,11105.0
+BRONX,4370122,Other Vehicular,2020-11-14T00:00:00.000,2020-12-14 20:06:00,40.861862,"{'latitude': '40.861862', 'longitude': '-73.91282'}",-73.91282,0,0,0,0,0,0,0,0,Sedan,10453.0
+QUEENS,4365006,Glare,2020-11-05T00:00:00.000,2020-12-14 07:38:00,40.777756,"{'latitude': '40.777756', 'longitude': '-73.89871'}",-73.89871,0,0,1,0,0,0,1,0,Concrete Mixer,11105.0
+BRONX,4374483,Fatigued/Drowsy,2020-12-08T00:00:00.000,2020-12-14 00:00:00,40.847763,"{'latitude': '40.847763', 'longitude': '-73.836'}",-73.836,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10461.0
+QUEENS,4362628,Driver Inattention/Distraction,2020-10-29T00:00:00.000,2020-12-14 22:00:00,40.685665,"{'latitude': '40.685665', 'longitude': '-73.85254'}",-73.85254,0,0,0,0,0,0,0,0,Sedan,11416.0
+QUEENS,4367611,Driver Inattention/Distraction,2020-11-13T00:00:00.000,2020-12-14 17:08:00,40.768032,"{'latitude': '40.768032', 'longitude': '-73.9275'}",-73.9275,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11102.0
+MANHATTAN,4359478,Unspecified,2020-10-20T00:00:00.000,2020-12-14 09:07:00,40.78791,"{'latitude': '40.78791', 'longitude': '-73.95579'}",-73.95579,0,0,0,0,0,0,0,0,Sedan,10128.0
+QUEENS,4367459,Unspecified,2020-11-13T00:00:00.000,2020-12-14 23:55:00,40.754856,"{'latitude': '40.754856', 'longitude': '-73.88524'}",-73.88524,1,0,0,0,0,0,1,0,E-Bike,11372.0
+MANHATTAN,4365387,Fatigued/Drowsy,2020-11-08T00:00:00.000,2020-12-14 07:42:00,40.79436,"{'latitude': '40.79436', 'longitude': '-73.973885'}",-73.973885,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10025.0
+MANHATTAN,4365156,Passing Too Closely,2020-11-02T00:00:00.000,2020-12-14 13:00:00,40.72446,"{'latitude': '40.72446', 'longitude': '-74.00658'}",-74.00658,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10013.0
+MANHATTAN,4365160,Unspecified,2020-11-04T00:00:00.000,2020-12-14 19:53:00,40.811005,"{'latitude': '40.811005', 'longitude': '-73.950584'}",-73.950584,0,0,0,0,0,0,0,0,Sedan,10027.0
+BROOKLYN,4369606,Unspecified,2020-11-16T00:00:00.000,2020-12-14 22:00:00,40.69673,"{'latitude': '40.69673', 'longitude': '-73.93735'}",-73.93735,0,0,0,0,0,0,0,0,Sedan,11206.0
+QUEENS,4358110,Traffic Control Disregarded,2020-10-15T00:00:00.000,2020-12-14 19:27:00,40.70618,"{'latitude': '40.70618', 'longitude': '-73.786064'}",-73.786064,0,0,0,0,0,0,0,0,Sedan,11433.0
+BROOKLYN,4365404,Unspecified,2020-11-08T00:00:00.000,2020-12-14 14:25:00,40.617794,"{'latitude': '40.617794', 'longitude': '-73.96'}",-73.96,0,0,0,0,0,0,0,0,Sedan,11230.0
+QUEENS,4372147,Unspecified,2020-11-29T00:00:00.000,2020-12-14 12:10:00,40.758812,"{'latitude': '40.758812', 'longitude': '-73.92545'}",-73.92545,0,0,0,0,0,0,0,0,Sedan,11106.0
+BROOKLYN,4363041,Unspecified,2020-10-30T00:00:00.000,2020-12-14 12:10:00,40.667923,"{'latitude': '40.667923', 'longitude': '-73.861465'}",-73.861465,0,0,0,0,0,0,0,0,Sedan,11208.0
+BROOKLYN,4366863,Unspecified,2020-11-08T00:00:00.000,2020-12-14 07:01:00,40.643433,"{'latitude': '40.643433', 'longitude': '-73.92369'}",-73.92369,0,0,0,0,0,0,0,0,Sedan,11203.0
+MANHATTAN,4362646,Other Vehicular,2020-10-30T00:00:00.000,2020-12-14 08:33:00,40.794735,"{'latitude': '40.794735', 'longitude': '-73.96988'}",-73.96988,0,0,0,0,0,0,0,0,Sedan,10025.0
+MANHATTAN,4364548,Driver Inattention/Distraction,2020-11-04T00:00:00.000,2020-12-14 03:00:00,40.745525,"{'latitude': '40.745525', 'longitude': '-73.98928'}",-73.98928,0,0,0,0,0,0,0,0,Sedan,10001.0
+QUEENS,4359306,Passing Too Closely,2020-10-19T00:00:00.000,2020-12-14 15:32:00,40.72725,"{'latitude': '40.72725', 'longitude': '-73.86157'}",-73.86157,0,0,0,0,0,0,0,0,FDNY EMS,11374.0
+QUEENS,4358513,Driver Inexperience,2020-10-16T00:00:00.000,2020-12-14 20:49:00,40.74433,"{'latitude': '40.74433', 'longitude': '-73.86994'}",-73.86994,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11373.0
+QUEENS,4367759,Driver Inattention/Distraction,2020-11-15T00:00:00.000,2020-12-14 19:50:00,40.73251,"{'latitude': '40.73251', 'longitude': '-73.86827'}",-73.86827,1,0,0,0,0,0,1,0,Sedan,11374.0
+STATEN ISLAND,4366154,Unspecified,2020-11-08T00:00:00.000,2020-12-14 17:32:00,40.640263,"{'latitude': '40.640263', 'longitude': '-74.08799'}",-74.08799,0,0,0,0,0,0,0,0,Sedan,10301.0
+QUEENS,4358484,Other Vehicular,2020-10-17T00:00:00.000,2020-12-14 16:00:00,40.759827,"{'latitude': '40.759827', 'longitude': '-73.801254'}",-73.801254,0,0,0,0,0,0,0,0,Sedan,11358.0
+QUEENS,4362961,Driver Inattention/Distraction,2020-10-31T00:00:00.000,2020-12-14 11:35:00,40.66956,"{'latitude': '40.66956', 'longitude': '-73.846344'}",-73.846344,0,0,1,0,0,0,1,0,Taxi,11414.0
+MANHATTAN,4362653,Following Too Closely,2020-10-30T00:00:00.000,2020-12-14 15:30:00,40.717186,"{'latitude': '40.717186', 'longitude': '-74.0129'}",-74.0129,0,0,1,0,0,0,1,0,Sedan,10007.0
+QUEENS,4370575,Unspecified,2020-11-19T00:00:00.000,2020-12-14 10:45:00,40.77421,"{'latitude': '40.77421', 'longitude': '-73.93182'}",-73.93182,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11102.0
+BRONX,4361719,Failure to Yield Right-of-Way,2020-10-26T00:00:00.000,2020-12-14 13:40:00,40.8883,"{'latitude': '40.8883', 'longitude': '-73.85682'}",-73.85682,0,0,0,0,1,0,1,0,,10466.0
+BROOKLYN,4363605,Passing or Lane Usage Improper,2020-10-30T00:00:00.000,2020-12-14 15:10:00,40.68789,"{'latitude': '40.68789', 'longitude': '-73.90724'}",-73.90724,0,0,0,0,0,0,0,0,Sedan,11207.0
+MANHATTAN,4370167,Following Too Closely,2020-11-20T00:00:00.000,2020-12-14 12:52:00,40.741077,"{'latitude': '40.741077', 'longitude': '-74.001564'}",-74.001564,0,0,0,0,0,0,0,0,Sedan,10011.0
+MANHATTAN,4361822,Driver Inattention/Distraction,2020-10-27T00:00:00.000,2020-12-14 19:50:00,40.827103,"{'latitude': '40.827103', 'longitude': '-73.94997'}",-73.94997,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10031.0
+BROOKLYN,4358364,Other Vehicular,2020-10-16T00:00:00.000,2020-12-14 05:43:00,40.689743,"{'latitude': '40.689743', 'longitude': '-73.96563'}",-73.96563,0,0,0,0,0,0,0,0,Sedan,11205.0
+BROOKLYN,4367428,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,2020-11-13T00:00:00.000,2020-12-14 22:00:00,40.678867,"{'latitude': '40.678867', 'longitude': '-73.90823'}",-73.90823,0,1,0,0,0,0,0,1,E-Scooter,11233.0
+QUEENS,4367151,Traffic Control Disregarded,2020-11-12T00:00:00.000,2020-12-14 22:30:00,40.761982,"{'latitude': '40.761982', 'longitude': '-73.87896'}",-73.87896,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11369.0
+QUEENS,4369060,Unspecified,2020-11-20T00:00:00.000,2020-12-14 01:18:00,40.66448,"{'latitude': '40.66448', 'longitude': '-73.73943'}",-73.73943,0,0,1,0,0,0,1,0,Sedan,11422.0
+MANHATTAN,4359560,Failure to Yield Right-of-Way,2020-10-19T00:00:00.000,2020-12-14 21:48:00,40.848938,"{'latitude': '40.848938', 'longitude': '-73.93708'}",-73.93708,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,10033.0
+BROOKLYN,4365215,Aggressive Driving/Road Rage,2020-11-07T00:00:00.000,2020-12-14 15:21:00,40.61293,"{'latitude': '40.61293', 'longitude': '-73.95397'}",-73.95397,0,0,1,0,0,0,1,0,Sedan,11230.0
+BROOKLYN,4365316,Reaction to Uninvolved Vehicle,2020-11-06T00:00:00.000,2020-12-14 13:22:00,40.642315,"{'latitude': '40.642315', 'longitude': '-73.92645'}",-73.92645,0,0,0,0,0,0,0,0,Sedan,11203.0
+MANHATTAN,4365509,Reaction to Uninvolved Vehicle,2020-11-07T00:00:00.000,2020-12-14 19:10:00,40.78383,"{'latitude': '40.78383', 'longitude': '-73.97783'}",-73.97783,0,0,0,0,0,0,0,0,Bus,10024.0
+BROOKLYN,4366477,Driver Inattention/Distraction,2020-11-11T00:00:00.000,2020-12-14 00:35:00,40.683506,"{'latitude': '40.683506', 'longitude': '-73.97594'}",-73.97594,0,0,1,0,0,0,1,0,Sedan,11217.0
+BROOKLYN,4373465,Unspecified,2020-11-16T00:00:00.000,2020-12-14 19:30:00,40.664375,"{'latitude': '40.664375', 'longitude': '-73.92376'}",-73.92376,0,0,0,0,1,0,1,0,Sedan,11212.0
+QUEENS,4373778,Driver Inattention/Distraction,2020-12-03T00:00:00.000,2020-12-14 00:00:00,40.745815,"{'latitude': '40.745815', 'longitude': '-73.945656'}",-73.945656,0,0,0,0,0,0,0,0,Sedan,11101.0
+BROOKLYN,4361507,Unspecified,2020-10-26T00:00:00.000,2020-12-14 16:50:00,40.663044,"{'latitude': '40.663044', 'longitude': '-73.90906'}",-73.90906,0,0,0,0,0,0,0,0,Sedan,11212.0
+BROOKLYN,4361720,Unspecified,2020-10-27T00:00:00.000,2020-12-14 02:28:00,40.666595,"{'latitude': '40.666595', 'longitude': '-73.87176'}",-73.87176,0,0,1,0,0,0,1,0,Sedan,11208.0
+BROOKLYN,4368827,Driver Inattention/Distraction,2020-11-17T00:00:00.000,2020-12-14 10:35:00,40.708546,"{'latitude': '40.708546', 'longitude': '-73.92287'}",-73.92287,0,0,0,0,0,0,0,0,Sedan,11237.0
+QUEENS,4363225,Unspecified,2020-11-01T00:00:00.000,2020-12-14 19:30:00,40.66563,"{'latitude': '40.66563', 'longitude': '-73.73921'}",-73.73921,0,0,0,0,0,0,0,0,Sedan,11422.0
+QUEENS,4361545,Driver Inattention/Distraction,2020-10-26T00:00:00.000,2020-12-14 05:25:00,40.733967,"{'latitude': '40.733967', 'longitude': '-73.87177'}",-73.87177,0,0,0,0,0,0,0,0,Dump,11373.0
+MANHATTAN,4359753,Driver Inattention/Distraction,2020-10-19T00:00:00.000,2020-12-14 23:53:00,40.750156,"{'latitude': '40.750156', 'longitude': '-73.97699'}",-73.97699,0,0,0,0,0,0,0,0,Taxi,10016.0
+BROOKLYN,4369011,Oversized Vehicle,2020-11-19T00:00:00.000,2020-12-14 17:25:00,40.701077,"{'latitude': '40.701077', 'longitude': '-73.94043'}",-73.94043,0,0,0,0,0,0,0,0,FLAT,11206.0
+BROOKLYN,4368152,Unsafe Speed,2020-11-15T00:00:00.000,2020-12-14 09:15:00,40.697296,"{'latitude': '40.697296', 'longitude': '-73.92378'}",-73.92378,0,0,3,0,0,0,3,0,Taxi,11221.0
+QUEENS,4374290,Driver Inattention/Distraction,2020-12-08T00:00:00.000,2020-12-14 16:15:00,40.69697,"{'latitude': '40.69697', 'longitude': '-73.79274'}",-73.79274,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11433.0
+BROOKLYN,4358092,Following Too Closely,2020-10-15T00:00:00.000,2020-12-14 17:55:00,40.573708,"{'latitude': '40.573708', 'longitude': '-73.99072'}",-73.99072,0,0,3,0,0,0,3,0,Station Wagon/Sport Utility Vehicle,11224.0
+BROOKLYN,4358613,Unspecified,2020-10-16T00:00:00.000,2020-12-14 11:10:00,40.63965,"{'latitude': '40.63965', 'longitude': '-73.967926'}",-73.967926,1,0,0,0,0,0,1,0,Convertible,11218.0
+QUEENS,4366562,Passing or Lane Usage Improper,2020-11-10T00:00:00.000,2020-12-14 20:28:00,40.778538,"{'latitude': '40.778538', 'longitude': '-73.9093'}",-73.9093,1,0,0,0,0,0,1,0,Sedan,11105.0
+BRONX,4361639,Passing Too Closely,2020-10-26T00:00:00.000,2020-12-14 16:23:00,40.86663,"{'latitude': '40.86663', 'longitude': '-73.88647'}",-73.88647,0,0,0,0,0,0,0,0,Sedan,10458.0
+BRONX,4362251,Unsafe Speed,2020-10-29T00:00:00.000,2020-12-14 00:20:00,40.862717,"{'latitude': '40.862717', 'longitude': '-73.9023'}",-73.9023,0,0,0,0,0,0,0,0,Sedan,10468.0
+QUEENS,4371934,Driver Inattention/Distraction,2020-11-30T00:00:00.000,2020-12-14 09:00:00,40.66564,"{'latitude': '40.66564', 'longitude': '-73.77896'}",-73.77896,0,0,0,0,0,0,0,0,Sedan,11434.0
+QUEENS,4359284,Failure to Yield Right-of-Way,2020-10-18T00:00:00.000,2020-12-14 17:30:00,40.748924,"{'latitude': '40.748924', 'longitude': '-73.937386'}",-73.937386,0,0,2,0,0,0,2,0,Station Wagon/Sport Utility Vehicle,11101.0
+BROOKLYN,4363806,Driver Inattention/Distraction,2020-11-03T00:00:00.000,2020-12-14 08:00:00,40.62075,"{'latitude': '40.62075', 'longitude': '-73.95738'}",-73.95738,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11230.0
+MANHATTAN,4358807,Backing Unsafely,2020-10-17T00:00:00.000,2020-12-14 14:30:00,40.73934,"{'latitude': '40.73934', 'longitude': '-73.97849'}",-73.97849,0,0,0,0,0,0,0,0,Sedan,10010.0
+BRONX,4362377,Unspecified,2020-10-29T00:00:00.000,2020-12-14 16:45:00,40.886894,"{'latitude': '40.886894', 'longitude': '-73.90704'}",-73.90704,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10463.0
+BROOKLYN,4372657,Driver Inexperience,2020-12-02T00:00:00.000,2020-12-14 11:12:00,40.681297,"{'latitude': '40.681297', 'longitude': '-73.93472'}",-73.93472,0,0,0,0,0,0,0,0,Sedan,11233.0
+BROOKLYN,4369335,Backing Unsafely,2020-11-20T00:00:00.000,2020-12-14 21:40:00,40.667942,"{'latitude': '40.667942', 'longitude': '-73.99074'}",-73.99074,0,0,0,0,1,0,1,0,Station Wagon/Sport Utility Vehicle,11215.0
+QUEENS,4366346,Failure to Yield Right-of-Way,2020-11-09T00:00:00.000,2020-12-14 18:09:00,40.753464,"{'latitude': '40.753464', 'longitude': '-73.79142'}",-73.79142,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11358.0
+BROOKLYN,4373359,Unspecified,2020-12-04T00:00:00.000,2020-12-14 18:27:00,40.620914,"{'latitude': '40.620914', 'longitude': '-73.9753'}",-73.9753,1,0,0,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11204.0
+BROOKLYN,4371605,Pavement Defective,2020-11-26T00:00:00.000,2020-12-14 21:45:00,40.69653,"{'latitude': '40.69653', 'longitude': '-73.939255'}",-73.939255,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11206.0
+QUEENS,4358517,Failure to Yield Right-of-Way,2020-10-17T00:00:00.000,2020-12-14 21:05:00,40.67581,"{'latitude': '40.67581', 'longitude': '-73.739555'}",-73.739555,0,0,0,0,0,0,0,0,Sedan,11413.0
+QUEENS,4364592,Unspecified,2020-11-05T00:00:00.000,2020-12-14 13:00:00,40.749905,"{'latitude': '40.749905', 'longitude': '-73.86247'}",-73.86247,0,0,0,0,1,0,1,0,Sedan,11368.0
+MANHATTAN,4364965,Unsafe Lane Changing,2020-11-06T00:00:00.000,2020-12-14 11:00:00,40.74649,"{'latitude': '40.74649', 'longitude': '-74.001335'}",-74.001335,0,0,0,0,0,0,0,0,Sedan,10011.0
+BROOKLYN,4359690,Backing Unsafely,2020-10-20T00:00:00.000,2020-12-14 11:30:00,40.713955,"{'latitude': '40.713955', 'longitude': '-73.95794'}",-73.95794,0,0,0,0,0,0,0,0,Sedan,11211.0
+BROOKLYN,4361725,Unspecified,2020-10-27T00:00:00.000,2020-12-14 09:30:00,40.680664,"{'latitude': '40.680664', 'longitude': '-73.902626'}",-73.902626,0,0,0,0,0,0,0,0,Sedan,11207.0
+BROOKLYN,4370876,Passing Too Closely,2020-11-22T00:00:00.000,2020-12-14 12:55:00,40.6821,"{'latitude': '40.6821', 'longitude': '-73.98065'}",-73.98065,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11217.0
+QUEENS,4374042,Driver Inattention/Distraction,2020-12-07T00:00:00.000,2020-12-14 17:30:00,40.691395,"{'latitude': '40.691395', 'longitude': '-73.82093'}",-73.82093,0,0,0,0,0,0,0,0,Pick-up Truck,11419.0
+MANHATTAN,4364138,Passing or Lane Usage Improper,2020-11-02T00:00:00.000,2020-12-14 01:26:00,40.846153,"{'latitude': '40.846153', 'longitude': '-73.932335'}",-73.932335,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10033.0
+BRONX,4372507,Driver Inattention/Distraction,2020-11-30T00:00:00.000,2020-12-14 06:00:00,40.855858,"{'latitude': '40.855858', 'longitude': '-73.91572'}",-73.91572,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10453.0
+BROOKLYN,4371726,Passing Too Closely,2020-11-29T00:00:00.000,2020-12-14 14:40:00,40.677944,"{'latitude': '40.677944', 'longitude': '-74.006805'}",-74.006805,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11231.0
+QUEENS,4362803,Driver Inattention/Distraction,2020-10-31T00:00:00.000,2020-12-14 13:36:00,40.706596,"{'latitude': '40.706596', 'longitude': '-73.80216'}",-73.80216,1,0,0,0,0,0,1,0,Sedan,11432.0
+BROOKLYN,4372515,Unspecified,2020-12-01T00:00:00.000,2020-12-14 16:00:00,40.67065,"{'latitude': '40.67065', 'longitude': '-73.86789'}",-73.86789,0,0,0,0,0,0,0,0,Sedan,11208.0
+BROOKLYN,4370568,Turning Improperly,2020-11-24T00:00:00.000,2020-12-14 17:50:00,40.702686,"{'latitude': '40.702686', 'longitude': '-73.92084'}",-73.92084,1,0,0,0,0,0,1,0,Sedan,11237.0
+BROOKLYN,4361957,Following Too Closely,2020-10-27T00:00:00.000,2020-12-14 22:53:00,40.634354,"{'latitude': '40.634354', 'longitude': '-73.94202'}",-73.94202,0,0,0,0,0,0,0,0,Sedan,11210.0
+BRONX,4373618,Unspecified,2020-12-04T00:00:00.000,2020-12-14 22:00:00,40.82518,"{'latitude': '40.82518', 'longitude': '-73.88872'}",-73.88872,0,0,0,0,0,0,0,0,Sedan,10459.0
+BROOKLYN,4363714,Following Too Closely,2020-11-01T00:00:00.000,2020-12-14 21:54:00,40.6104,"{'latitude': '40.6104', 'longitude': '-73.9586'}",-73.9586,1,0,0,0,0,0,1,0,Sedan,11229.0
+MANHATTAN,4372103,Unsafe Speed,2020-11-30T00:00:00.000,2020-12-14 13:30:00,40.73988,"{'latitude': '40.73988', 'longitude': '-73.99872'}",-73.99872,0,0,0,0,0,0,0,0,Sedan,10011.0
+QUEENS,4365043,Unsafe Speed,2020-11-06T00:00:00.000,2020-12-14 20:48:00,40.676323,"{'latitude': '40.676323', 'longitude': '-73.80198'}",-73.80198,0,0,1,0,0,0,1,0,Sedan,11436.0
+BROOKLYN,4363269,Failure to Yield Right-of-Way,2020-11-01T00:00:00.000,2020-12-14 11:30:00,40.620296,"{'latitude': '40.620296', 'longitude': '-73.90674'}",-73.90674,0,0,0,0,0,0,0,0,Sedan,11234.0
+BRONX,4371706,Unspecified,2020-11-23T00:00:00.000,2020-12-14 22:00:00,40.830544,"{'latitude': '40.830544', 'longitude': '-73.89535'}",-73.89535,0,0,0,0,0,0,0,0,Sedan,10459.0
+STATEN ISLAND,4360383,Driver Inexperience,2020-10-22T00:00:00.000,2020-12-14 15:30:00,40.633858,"{'latitude': '40.633858', 'longitude': '-74.12596'}",-74.12596,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10310.0
+BRONX,4370512,Driver Inattention/Distraction,2020-11-24T00:00:00.000,2020-12-14 10:55:00,40.8474,"{'latitude': '40.8474', 'longitude': '-73.83118'}",-73.83118,0,0,1,0,0,0,1,0,Pick-up Truck,10461.0
+BROOKLYN,4369524,Drugs (illegal),2020-11-20T00:00:00.000,2020-12-14 23:49:00,40.5825,"{'latitude': '40.5825', 'longitude': '-73.97313'}",-73.97313,0,0,0,0,0,0,0,0,Sedan,11224.0
+BROOKLYN,4367053,Aggressive Driving/Road Rage,2020-11-11T00:00:00.000,2020-12-14 21:30:00,40.693275,"{'latitude': '40.693275', 'longitude': '-73.957794'}",-73.957794,0,0,1,0,0,0,1,0,Sedan,11205.0
+BRONX,4365453,Unspecified,2020-11-06T00:00:00.000,2020-12-14 09:00:00,40.906666,"{'latitude': '40.906666', 'longitude': '-73.90286'}",-73.90286,0,0,0,0,0,0,0,0,Sedan,10471.0
+STATEN ISLAND,4361898,Driver Inattention/Distraction,2020-10-27T00:00:00.000,2020-12-14 19:08:00,40.63817,"{'latitude': '40.63817', 'longitude': '-74.07814'}",-74.07814,0,0,0,0,0,0,0,0,Sedan,10301.0
+QUEENS,4360963,Unspecified,2020-10-17T00:00:00.000,2020-12-14 13:42:00,40.698235,"{'latitude': '40.698235', 'longitude': '-73.890656'}",-73.890656,0,0,0,0,0,0,0,0,Sedan,11385.0
+MANHATTAN,4363675,Passing or Lane Usage Improper,2020-11-02T00:00:00.000,2020-12-14 14:00:00,40.771393,"{'latitude': '40.771393', 'longitude': '-73.98216'}",-73.98216,0,0,0,0,0,0,0,0,Taxi,10023.0
+MANHATTAN,4368778,Driver Inattention/Distraction,2020-11-18T00:00:00.000,2020-12-14 19:45:00,40.79647,"{'latitude': '40.79647', 'longitude': '-73.9612'}",-73.9612,1,0,0,0,0,0,1,0,Bike,10025.0
+MANHATTAN,4372199,Passing Too Closely,2020-12-01T00:00:00.000,2020-12-14 00:01:00,40.716812,"{'latitude': '40.716812', 'longitude': '-73.97816'}",-73.97816,0,0,0,0,0,0,0,0,Sedan,10002.0
+QUEENS,4358691,Driver Inattention/Distraction,2020-10-18T00:00:00.000,2020-12-14 10:20:00,40.715782,"{'latitude': '40.715782', 'longitude': '-73.74641'}",-73.74641,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11428.0
+BRONX,4362737,Driver Inattention/Distraction,2020-10-31T00:00:00.000,2020-12-14 04:17:00,40.84518,"{'latitude': '40.84518', 'longitude': '-73.91417'}",-73.91417,0,0,0,0,0,0,0,0,Sedan,10452.0
+BRONX,4362573,Passing Too Closely,2020-10-29T00:00:00.000,2020-12-14 11:45:00,40.87916,"{'latitude': '40.87916', 'longitude': '-73.87715'}",-73.87715,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10467.0
+BROOKLYN,4374228,Aggressive Driving/Road Rage,2020-12-07T00:00:00.000,2020-12-14 22:35:00,40.670895,"{'latitude': '40.670895', 'longitude': '-73.91405'}",-73.91405,0,0,1,0,0,0,1,0,Sedan,11233.0
+BROOKLYN,4374334,Driver Inattention/Distraction,2020-12-08T00:00:00.000,2020-12-14 22:45:00,40.65777,"{'latitude': '40.65777', 'longitude': '-73.93962'}",-73.93962,0,0,2,0,0,0,2,0,Sedan,11203.0
+QUEENS,4367906,Unspecified,2020-11-16T00:00:00.000,2020-12-14 01:20:00,40.781925,"{'latitude': '40.781925', 'longitude': '-73.91502'}",-73.91502,0,0,0,0,0,0,0,0,Sedan,11105.0
+QUEENS,4367626,Driver Inattention/Distraction,2020-11-14T00:00:00.000,2020-12-14 22:10:00,40.753593,"{'latitude': '40.753593', 'longitude': '-73.92338'}",-73.92338,0,0,1,0,0,0,1,0,Sedan,11101.0
+BROOKLYN,4365068,Driver Inattention/Distraction,2020-10-30T00:00:00.000,2020-12-14 11:40:00,40.625774,"{'latitude': '40.625774', 'longitude': '-73.936325'}",-73.936325,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11210.0
+QUEENS,4367159,Traffic Control Disregarded,2020-11-13T00:00:00.000,2020-12-14 08:50:00,40.777737,"{'latitude': '40.777737', 'longitude': '-73.812485'}",-73.812485,0,0,1,0,0,0,1,0,Sedan,11357.0
+BROOKLYN,4367661,Other Vehicular,2020-11-13T00:00:00.000,2020-12-14 15:14:00,40.649326,"{'latitude': '40.649326', 'longitude': '-73.87844'}",-73.87844,0,0,0,0,0,0,0,0,Sedan,11207.0
+BROOKLYN,4361509,Obstruction/Debris,2020-10-26T00:00:00.000,2020-12-14 10:05:00,40.66812,"{'latitude': '40.66812', 'longitude': '-73.918144'}",-73.918144,0,0,0,0,0,0,0,0,Dump,11212.0
+BROOKLYN,4365410,Driver Inattention/Distraction,2020-11-08T00:00:00.000,2020-12-14 14:25:00,40.676468,"{'latitude': '40.676468', 'longitude': '-73.91301'}",-73.91301,0,0,1,0,0,0,1,0,Sedan,11233.0
+MANHATTAN,4363023,Failure to Yield Right-of-Way,2020-10-30T00:00:00.000,2020-12-14 13:54:00,40.745384,"{'latitude': '40.745384', 'longitude': '-73.99471'}",-73.99471,0,0,0,0,1,0,1,0,Sedan,10001.0
+QUEENS,4373858,Driver Inattention/Distraction,2020-12-04T00:00:00.000,2020-12-14 22:30:00,40.76301,"{'latitude': '40.76301', 'longitude': '-73.87532'}",-73.87532,0,0,1,0,0,0,1,0,Sedan,11369.0
+BROOKLYN,4361641,Unspecified,2020-10-26T00:00:00.000,2020-12-14 14:28:00,40.65362,"{'latitude': '40.65362', 'longitude': '-73.933525'}",-73.933525,0,0,0,0,0,0,0,0,Sedan,11203.0
+STATEN ISLAND,4366594,Backing Unsafely,2020-11-10T00:00:00.000,2020-12-14 19:30:00,40.603165,"{'latitude': '40.603165', 'longitude': '-74.08536'}",-74.08536,0,0,0,0,0,0,0,0,Sedan,10304.0
+BROOKLYN,4363430,Unspecified,2020-10-26T00:00:00.000,2020-12-14 16:00:00,40.641674,"{'latitude': '40.641674', 'longitude': '-74.00313'}",-74.00313,0,0,0,0,0,0,0,0,Sedan,11220.0
+BROOKLYN,4358056,Driver Inexperience,2020-10-15T00:00:00.000,2020-12-14 11:55:00,40.605137,"{'latitude': '40.605137', 'longitude': '-74.01729'}",-74.01729,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11228.0
+BROOKLYN,4369352,Following Too Closely,2020-11-20T00:00:00.000,2020-12-14 12:22:00,40.68876,"{'latitude': '40.68876', 'longitude': '-73.98085'}",-73.98085,0,0,0,0,1,0,1,0,E-Bike,11217.0
+MANHATTAN,4373531,Passing or Lane Usage Improper,2020-12-06T00:00:00.000,2020-12-14 13:45:00,40.75457,"{'latitude': '40.75457', 'longitude': '-73.97169'}",-73.97169,0,0,0,0,0,0,0,0,Moped,10017.0
+BROOKLYN,4366661,Driver Inattention/Distraction,2020-11-05T00:00:00.000,2020-12-14 21:45:00,40.686264,"{'latitude': '40.686264', 'longitude': '-73.9567'}",-73.9567,1,0,0,0,0,0,1,0,Bike,11238.0
+BROOKLYN,4370226,Driver Inattention/Distraction,2020-11-23T00:00:00.000,2020-12-14 21:05:00,40.665634,"{'latitude': '40.665634', 'longitude': '-73.95512'}",-73.95512,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11225.0
+QUEENS,4361577,Driver Inattention/Distraction,2020-10-25T00:00:00.000,2020-12-14 14:45:00,40.610104,"{'latitude': '40.610104', 'longitude': '-73.76369'}",-73.76369,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11691.0
+BROOKLYN,4373635,Following Too Closely,2020-12-04T00:00:00.000,2020-12-14 19:55:00,40.708965,"{'latitude': '40.708965', 'longitude': '-73.924736'}",-73.924736,0,0,0,0,0,0,0,0,Sedan,11237.0
+BRONX,4371648,Driver Inattention/Distraction,2020-11-29T00:00:00.000,2020-12-14 10:20:00,40.848312,"{'latitude': '40.848312', 'longitude': '-73.89735'}",-73.89735,0,0,0,0,0,0,0,0,Sedan,10457.0
+QUEENS,4371411,Driver Inattention/Distraction,2020-11-29T00:00:00.000,2020-12-14 03:56:00,40.76548,"{'latitude': '40.76548', 'longitude': '-73.913704'}",-73.913704,0,0,3,0,0,0,3,0,Sedan,11103.0
+BROOKLYN,4373946,Unspecified,2020-12-06T00:00:00.000,2020-12-14 18:10:00,40.658577,"{'latitude': '40.658577', 'longitude': '-73.89063'}",-73.89063,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11207.0
+QUEENS,4373870,Driver Inattention/Distraction,2020-12-05T00:00:00.000,2020-12-14 14:30:00,40.761772,"{'latitude': '40.761772', 'longitude': '-73.868004'}",-73.868004,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11369.0
+QUEENS,4369402,Unspecified,2020-11-21T00:00:00.000,2020-12-14 11:00:00,40.680115,"{'latitude': '40.680115', 'longitude': '-73.75324'}",-73.75324,0,0,0,0,0,0,0,0,Sedan,11413.0
+BRONX,4371889,Unspecified,2020-11-14T00:00:00.000,2020-12-14 21:32:00,40.86553,"{'latitude': '40.86553', 'longitude': '-73.88703'}",-73.88703,0,0,0,0,0,0,0,0,Taxi,10458.0
+BROOKLYN,4370914,Failure to Yield Right-of-Way,2020-11-26T00:00:00.000,2020-12-14 12:08:00,40.714825,"{'latitude': '40.714825', 'longitude': '-73.95882'}",-73.95882,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11211.0
+BRONX,4366401,Unspecified,2020-11-10T00:00:00.000,2020-12-14 20:32:00,40.8403,"{'latitude': '40.8403', 'longitude': '-73.9007'}",-73.9007,0,0,0,0,0,0,0,0,Box Truck,10457.0
+BROOKLYN,4365219,Unspecified,2020-11-07T00:00:00.000,2020-12-14 21:48:00,40.65177,"{'latitude': '40.65177', 'longitude': '-73.95597'}",-73.95597,0,0,1,0,0,0,1,0,Station Wagon/Sport Utility Vehicle,11226.0
+BROOKLYN,4359288,Driver Inattention/Distraction,2020-10-19T00:00:00.000,2020-12-14 18:59:00,40.66997,"{'latitude': '40.66997', 'longitude': '-73.93512'}",-73.93512,0,0,1,0,0,0,1,0,Sedan,11213.0
+QUEENS,4364694,Turning Improperly,2020-11-05T00:00:00.000,2020-12-14 19:00:00,40.66705,"{'latitude': '40.66705', 'longitude': '-73.80945'}",-73.80945,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11420.0
+BROOKLYN,4360698,Unspecified,2020-10-18T00:00:00.000,2020-12-14 15:02:00,40.631313,"{'latitude': '40.631313', 'longitude': '-73.999565'}",-73.999565,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11219.0
+BROOKLYN,4372764,Unspecified,2020-12-01T00:00:00.000,2020-12-14 20:23:00,40.696983,"{'latitude': '40.696983', 'longitude': '-73.935234'}",-73.935234,0,0,0,0,0,0,0,0,Sedan,11206.0
+MANHATTAN,4373649,Passing Too Closely,2020-12-04T00:00:00.000,2020-12-14 13:25:00,40.782482,"{'latitude': '40.782482', 'longitude': '-73.98479'}",-73.98479,0,0,0,0,0,0,0,0,Sedan,10023.0
+BROOKLYN,4372729,Unspecified,2020-11-30T00:00:00.000,2020-12-14 21:25:00,40.669476,"{'latitude': '40.669476', 'longitude': '-73.919975'}",-73.919975,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,11233.0
+BROOKLYN,4361424,Unsafe Speed,2020-10-24T00:00:00.000,2020-12-14 16:00:00,40.667507,"{'latitude': '40.667507', 'longitude': '-73.88007'}",-73.88007,0,0,0,0,0,0,0,0,Sedan,11208.0
+MANHATTAN,4359129,Unspecified,2020-10-18T00:00:00.000,2020-12-14 16:20:00,40.769592,"{'latitude': '40.769592', 'longitude': '-73.98823'}",-73.98823,0,0,0,0,0,0,0,0,Station Wagon/Sport Utility Vehicle,10019.0
